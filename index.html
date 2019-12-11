@@ -15,6 +15,7 @@
     <!-- <link rel="stylesheet" href="css/jquery-ui.min.css"> -->
     <link rel="stylesheet" href="css/jquery-ui.1.12.1.min.css">
     <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/stars.css" type="text/css" />
 
     <link rel="shortcut icon" href="favicon.ico">
 
@@ -61,6 +62,7 @@
                     <p>[{{review.Place}}]</p>
                     <p>[{{review.Rating}}][{{review.Stars}}]</p>
                     <!-- <p>[{{review.DateAdded}}]</p> -->
+                    <span class='stars s-{{review.Stars}}'>{{review.Stars}} star(s)</span>
                     <hr />
                 </div>
 
