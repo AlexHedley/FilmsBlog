@@ -17,3 +17,11 @@ https://alexhedley.github.io/FilmsBlog/
 From: http://alexhedley.com/films/
 
 2013: https://web.archive.org/web/20131211120614/http://alexhedley.com/films/
+
+---
+
+## Run
+
+`py -m  http.server`
+
+- [local site](http://localhost:8000/)

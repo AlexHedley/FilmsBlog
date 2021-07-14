@@ -3,6 +3,8 @@
 AngularJS
 https://angularjs.org/
 
+- [Angular Filter](https://github.com/a8m/angular-filter/)
+
 Bootstrap
 https://getbootstrap.com/
 

@@ -1,7 +1,18 @@
-var myApp = angular.module('myApp', ['ngSanitize']);
+var myApp = angular.module('myApp', ['ngSanitize', 'angular.filter']);
 myApp.controller('myController', function ($scope, $http, $q, $filter) {
 
     $scope.list = [];
+
+    $scope.orderOptions = [
+        //{ name:'FilmDate' }, 
+        { name:'Stars' },
+    ];
+
+    $scope.orderProp = 'Stars';//'FilmDate';
+    $scope.setOrder = function (orderProp) {
+        //console.debug(orderProp);
+        $scope.orderProp = orderProp;
+    };
 
     $scope.init = function () {
         getData();
