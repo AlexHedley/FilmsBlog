@@ -2550,5 +2550,16 @@
       "Rating": "NULL",
       "DateAdded": "2020-09-13 14:35:00 +0000",
       "Stars": 3
+    },
+    {
+      "FilmID": 235,
+      "FilmName": "Cruella",
+      "FilmDate": "2021-06-04 19:45:00 +0000",
+      "Review": "Nice nod to certain things from the original, interesting story, great costumes.",
+      "Cinema": "JamJarCinema",
+      "Place": "Whitley Bay",
+      "Rating": "NULL",
+      "DateAdded": "2020-07-14 08:15:00 +0000",
+      "Stars": 3
     }
   ]
