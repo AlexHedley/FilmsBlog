@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="css/jquery-ui.1.12.1.min.css">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/stars.css" type="text/css" />
+    <link rel="stylesheet" href="css/cinema-ticket.css" type="text/css" />
 
     <link rel="shortcut icon" href="favicon.ico">
 
@@ -52,6 +53,42 @@
                     
                 </div>
 
+                <div class="row justify-content-md-center">
+                
+                    <div class="cinemaTicketWrap">
+                      <div class="cinemaTicket cinemaTicketLeft">
+                        <h1>Startup <span>Cinema</span></h1>
+                        <div class="title">
+                          <h2>How I met your Mother</h2>
+                          <span>movie</span>
+                        </div>
+                        <div class="name">
+                          <h2>Vladimir Kudinov</h2>
+                          <span>name</span>
+                        </div>
+                        <div class="seat">
+                          <h2>156</h2>
+                          <span>seat</span>
+                        </div>
+                        <div class="time">
+                          <h2>12:00</h2>
+                          <span>time</span>
+                        </div>
+                        
+                      </div>
+                      <div class="cinemaTicket cinemaTicketRight">
+                        <div class="eye"></div>
+                        <div class="number">
+                          <h3>156</h3>
+                          <span>seat</span>
+                        </div>
+                        <div class="barcode"></div>
+                      </div>
+                  
+                    </div>
+
+                </div>
+
                 <div class="row">
                     <div class="col-sm">Order:</div>
                     <div ng-repeat="order in orderOptions"
@@ -69,6 +106,7 @@
                     <p>&nbsp;({{review.FilmDate}})</p>
                     <br />
                     <div ng-bind-html="review.Review"></div>
+                    <br />
                     <p>[{{review.Cinema}}]</p>
                     <p>[{{review.Place}}]</p>
                     <p>[{{review.Rating}}][{{review.Stars}}]</p>
