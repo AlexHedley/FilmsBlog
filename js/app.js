@@ -4,11 +4,12 @@ myApp.controller('myController', function ($scope, $http, $q, $filter) {
     $scope.list = [];
 
     $scope.orderOptions = [
-        //{ name:'FilmDate' }, 
+        // { name:'FilmDate' }, 
+        { name:'FilmID' },
         { name:'Stars' },
     ];
 
-    $scope.orderProp = 'Stars';//'FilmDate';
+    $scope.orderProp = '-FilmID'; //'FilmDate'; //'Stars';//
     $scope.setOrder = function (orderProp) {
         //console.debug(orderProp);
         $scope.orderProp = orderProp;
@@ -32,6 +33,6 @@ myApp.controller('myController', function ($scope, $http, $q, $filter) {
 
 myApp.filter('toDate', function() {
     return function(items) {
-      return new Date(items);
+        return new Date(items);
     };
 });
