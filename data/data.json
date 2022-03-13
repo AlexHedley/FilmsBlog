@@ -2636,7 +2636,18 @@
       "Cinema": "JamJarCinema",
       "Place": "Whitley Bay",
       "Rating": "*****",
-      "DateAdded": "2020-12-19 14:30:00 +0000",
+      "DateAdded": "2021-12-19 14:30:00 +0000",
+      "Stars": 5
+    },
+    {
+      "FilmID": 249,
+      "FilmName": "The Batman",
+      "FilmDate": "2022-03-13 19:00:00 +0000",
+      "Review": "",
+      "Cinema": "JamJarCinema",
+      "Place": "Whitley Bay",
+      "Rating": "*****",
+      "DateAdded": "2022-03-13 22:30:00 +0000",
       "Stars": 5
     }
   ]
