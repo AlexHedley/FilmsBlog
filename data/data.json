@@ -2660,5 +2660,16 @@
       "Rating": "***°°",
       "DateAdded": "2022-03-16 18:00:00 +0000",
       "Stars": 3
+    },
+    {
+      "FilmID": 251,
+      "FilmName": "Fantastic Beasts: The Secrets of Dumbledore",
+      "FilmDate": "2022-04-19 18:10:00 +0000",
+      "Review": "It was ok.",
+      "Cinema": "CineWorld",
+      "Place": "Dalton Park",
+      "Rating": "***°°",
+      "DateAdded": "2022-05-15 10:30:00 +0000",
+      "Stars": 3
     }
   ]
