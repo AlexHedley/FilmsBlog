@@ -2682,5 +2682,18 @@
       "Rating": "****°",
       "DateAdded": "2022-05-15 10:30:00 +0000",
       "Stars": 4
+    },
+    {
+      "FilmID": 253,
+      "FilmName": "Thor: Love and Thunder",
+      "FilmDate": "2022-07-28 18:30:00 +0000",
+      "Review": "Hilarious.",
+      "Cinema": "CineWorld",
+      "Place": "Dalton Park",
+      "Rating": "****°",
+      "DateAdded": "2022-07-28 21:45:00 +0000",
+      "Stars": 4,
+      "image": "images/ThorLoveAndThunder.jpg",
+      "duration": "1h 59m"
     }
   ]

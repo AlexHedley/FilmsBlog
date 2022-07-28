@@ -65,6 +65,7 @@
 
                 <div class="row" ng-repeat="review in list | filter:searchText | orderBy:orderProp">
                     <h3>{{review.FilmName}}</h3>
+                    <img ng-if="review.image.length > 0" ng-src="{{review.image}}" alt="{{review.FilmName}}">
                     <p>&nbsp;[{{review.FilmID}}]</p>
                     <p>&nbsp;({{review.FilmDate}})</p>
                     <br />
