@@ -31,7 +31,7 @@
 
         <section class="jumbotron title-container text-center">
             <div>
-                <h1>Films Blog</h1>
+                <h1><i class="fas fa-film"></i> Films Blog</h1>
 
                 <div class="row justify-content-md-center">
                     <div class="col-lg-8">
@@ -63,7 +63,9 @@
                     </div>
                 </div>
 
-                <div class="row" ng-repeat="review in list | filter:searchText | orderBy:orderProp">
+                <br />
+
+                <!-- <div class="row" ng-repeat="review in list | filter:searchText | orderBy:orderProp">
                     <h3>{{review.FilmName}}</h3>
                     <img ng-if="review.image.length > 0" ng-src="{{review.image}}" alt="{{review.FilmName}}">
                     <p>&nbsp;[{{review.FilmID}}]</p>
@@ -73,9 +75,33 @@
                     <p>[{{review.Cinema}}]</p>
                     <p>[{{review.Place}}]</p>
                     <p>[{{review.Rating}}][{{review.Stars}}]</p>
-                    <!-- <p>[{{review.DateAdded}}]</p> -->
+                    <p>[{{review.DateAdded}}]</p>
                     <span class='stars s-{{review.Stars}}'>{{review.Stars}} star(s)</span>
                     <hr />
+                </div> -->
+
+                <div class="row">
+                    <div 
+                        ng-repeat="review in list | filter:searchText | orderBy:orderProp"
+                        class="col-md-4"
+                        style="margin-bottom: 50px;"
+                    >
+                        <div class="card" style="width: 18rem;" data-id="{{review.FilmID}}">
+                            <img ng-if="review.image.length > 0" ng-src="/FilmsBlog/{{review.image}}" class="card-img-top" alt="{{review.FilmName}}">
+                            <div class="card-header">
+                                {{review.FilmName}}
+                            </div>
+                            <div class="card-body">
+                                <h5 class="card-title">{{review.Cinema}}</h5>
+                                <h6 class="card-subtitle mb-2 text-muted"><span class="badge badge-light"><span class='stars s-{{review.Stars}}'>{{review.Stars}} star(s)</span></span>{{review.Rating}}[{{review.Stars}}]</h6>
+                                <h6 class="card-subtitle mb-2 text-muted">{{review.Place}}</h6>
+                                <p class="card-text"><div ng-bind-html="review.Review"></div></p>
+                            </div>
+                            <div class="card-footer text-muted">
+                                {{review.FilmDate | toDate | date:'mediumDate'}}
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
             </div>
