@@ -1,14 +1,4 @@
-.style1 { width: 100%;}
-        
-.top { background-color: Yellow; color: BLue; }
-
-.bb {
-    background-color: Blue;
-    color: White;
+.container {
+    /* max-width: 1140px; */
+    max-width: 1500px;
 }
-.ts {
-    text-align: center;
-    font-weight: bold;
-}
-
-table tr td { border: 1px solid black; }

@@ -2596,7 +2596,7 @@
       "Place": "Whitley Bay",
       "Rating": "",
       "DateAdded": "2020-07-14 08:15:00 +0000",
-      "image": "image/BlackWidow.jpg",
+      "image": "images/BlackWidow.jpg",
       "Stars": 3
     },
     {
@@ -2704,7 +2704,7 @@
       "Place": "Dalton Park",
       "Rating": "***°°",
       "DateAdded": "2022-05-15 10:30:00 +0000",
-      "image": "images/FantasticBeastsTheSecretsofDumbledore",
+      "image": "images/FantasticBeastsTheSecretsofDumbledore.jpg",
       "Stars": 3
     },
     {
@@ -2721,6 +2721,18 @@
     },
     {
       "FilmID": 253,
+      "FilmName": "Everything Everywhere All At Once",
+      "FilmDate": "2022-06-14 19:30:00 +0000",
+      "Review": "Absolutely Amazing.",
+      "Cinema": "JamJarCinema",
+      "Place": "Whitley Bay",
+      "Rating": "*****",
+      "Stars": 5,
+      "DateAdded": "2022-10-20 18:00:00 +0000",
+      "image": "images/EEAAO.jpg"
+    },
+    {
+      "FilmID": 254,
       "FilmName": "Thor: Love and Thunder",
       "FilmDate": "2022-07-28 18:30:00 +0000",
       "Review": "Hilarious.",
@@ -2731,5 +2743,18 @@
       "Stars": 4,
       "image": "images/ThorLoveAndThunder.jpg",
       "duration": "1h 59m"
+    },
+    {
+      "FilmID": 255,
+      "FilmName": "The Lost King",
+      "FilmDate": "2022-10-08 17:15:00 +0000",
+      "Review": "Surprised at how much I enjoyed it.",
+      "Cinema": "JamJarCinema",
+      "Place": "Whitley Bay",
+      "Rating": "***°°",
+      "Stars": 3,
+      "DateAdded": "2022-10-20 18:00:00 +0000",
+      "image": "images/TheLostKing.jpg",
+      "duration": "1h 48m"
     }
   ]

@@ -65,25 +65,10 @@
 
                 <br />
 
-                <!-- <div class="row" ng-repeat="review in list | filter:searchText | orderBy:orderProp">
-                    <h3>{{review.FilmName}}</h3>
-                    <img ng-if="review.image.length > 0" ng-src="{{review.image}}" alt="{{review.FilmName}}">
-                    <p>&nbsp;[{{review.FilmID}}]</p>
-                    <p>&nbsp;({{review.FilmDate}})</p>
-                    <br />
-                    <div ng-bind-html="review.Review"></div>
-                    <p>[{{review.Cinema}}]</p>
-                    <p>[{{review.Place}}]</p>
-                    <p>[{{review.Rating}}][{{review.Stars}}]</p>
-                    <p>[{{review.DateAdded}}]</p>
-                    <span class='stars s-{{review.Stars}}'>{{review.Stars}} star(s)</span>
-                    <hr />
-                </div> -->
-
                 <div class="row">
                     <div 
                         ng-repeat="review in list | filter:searchText | orderBy:orderProp"
-                        class="col-md-4"
+                        class="col-md-3"
                         style="margin-bottom: 50px;"
                     >
                         <div class="card" style="width: 18rem;" data-id="{{review.FilmID}}">
