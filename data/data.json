@@ -2797,7 +2797,7 @@
     "duration": "2h 14m"
   },
   {
-    "FilmID": 257,
+    "FilmID": 259,
     "FilmName": "The Unlikely Pilgrimage of Harold Fry",
     "FilmDate": "2023-04-30 15:15:00 +0000",
     "Review": "",
@@ -2807,6 +2807,19 @@
     "Stars": 3,
     "DateAdded": "2023-05-08 15:30:00 +0000",
     "image": "images/the-unlikely-pilgrimage-of-harold-fry.jpeg",
+    "duration": "1 hr 48 min"
+  },
+  {
+    "FilmID": 260,
+    "FilmName": "Indiana Jones and the Dial of Destiny",
+    "FilmDate": "2023-07-05 18:30:00 +0000",
+    "Review": "Back to proper Indy",
+    "Cinema": "CineWorld",
+    "Place": "Dalton Park",
+    "Rating": "****°",
+    "Stars": 4,
+    "DateAdded": "2023-07-05 22:00:00 +0000",
+    "image": "images/IndianaJones.jpeg",
     "duration": "1 hr 48 min"
   }
 ]
