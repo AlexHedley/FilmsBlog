@@ -285,7 +285,7 @@
     "Rating": "*°°°°",
     "DateAdded": "2010-11-01 00:00:00 +0000",
     "Stars": 1,
-    "image": "images/StTrinians.jpg.jpg"
+    "image": "images/StTrinians.jpg"
   },
   {
     "FilmID": 25,
@@ -1149,7 +1149,7 @@
     "Rating": "***°°",
     "DateAdded": "2011-07-03 07:21:42 +0000",
     "Stars": 3,
-    "image": "images/.jpg"
+    "image": "images/TheGreenLantern.jpg"
   },
   {
     "FilmID": 101,
@@ -1161,7 +1161,7 @@
     "Rating": "***°°",
     "DateAdded": "2011-07-31 08:00:24 +0000",
     "Stars": 3,
-    "image": "images/.jpg"
+    "image": "images/HarryPotterAndTheDeathlyHallowsPart2.jpg"
   },
   {
     "FilmID": 102,
@@ -1173,7 +1173,7 @@
     "Rating": "***°°",
     "DateAdded": "2011-07-31 08:01:55 +0000",
     "Stars": 3,
-    "image": "images/.jpg"
+    "image": "images/HorribleBosses.jpg"
   },
   {
     "FilmID": 103,
@@ -1185,7 +1185,7 @@
     "Rating": "***°°",
     "DateAdded": "2011-08-07 11:45:03 +0000",
     "Stars": 3,
-    "image": "images/.jpg"
+    "image": "images/CaptainAmerica.jpg"
   },
   {
     "FilmID": 105,
@@ -1197,7 +1197,7 @@
     "Rating": "***°°",
     "DateAdded": "2011-09-24 00:45:55 +0000",
     "Stars": 3,
-    "image": "images/.jpg"
+    "image": "images/KillerElite.jpg"
   },
   {
     "FilmID": 106,
@@ -1209,7 +1209,7 @@
     "Rating": "***°°",
     "DateAdded": "2011-09-24 00:47:41 +0000",
     "Stars": 3,
-    "image": "images/.jpg"
+    "image": "images/CowboysandAliens.jpg"
   },
   {
     "FilmID": 107,
@@ -1221,7 +1221,7 @@
     "Rating": "****°",
     "DateAdded": "2011-09-24 00:48:56 +0000",
     "Stars": 4,
-    "image": "images/.jpg"
+    "image": "images/TinkerTailorSoliderSpy.jpg"
   },
   {
     "FilmID": 108,
@@ -1233,7 +1233,7 @@
     "Rating": "*****",
     "DateAdded": "2011-09-30 06:32:20 +0000",
     "Stars": 5,
-    "image": "images/.jpg"
+    "image": "images/JurassicPark.jpg"
   },
   {
     "FilmID": 109,
@@ -1245,7 +1245,7 @@
     "Rating": "***°°",
     "DateAdded": "2011-09-30 06:33:55 +0000",
     "Stars": 3,
-    "image": "images/.jpg"
+    "image": "images/FriendsWithBenefits.jpg"
   },
   {
     "FilmID": 110,
@@ -1257,7 +1257,7 @@
     "Rating": "****°",
     "DateAdded": "2011-10-20 09:31:29 +0000",
     "Stars": 4,
-    "image": "images/.jpg"
+    "image": "images/TheThreeMusketeers.jpg"
   },
   {
     "FilmID": 111,
@@ -1269,7 +1269,7 @@
     "Rating": "***°°",
     "DateAdded": "2011-12-04 09:18:51 +0000",
     "Stars": 3,
-    "image": "images/.jpg"
+    "image": "images/InTime.jpg"
   },
   {
     "FilmID": 112,
@@ -1281,7 +1281,7 @@
     "Rating": "***°°",
     "DateAdded": "2011-12-27 03:48:45 +0000",
     "Stars": 3,
-    "image": "images/.jpg"
+    "image": "images/SherlockHolmesAGameOfShadows.jpg"
   },
   {
     "FilmID": 113,
@@ -1293,7 +1293,7 @@
     "Rating": "****°",
     "DateAdded": "2011-12-27 03:50:58 +0000",
     "Stars": 4,
-    "image": "images/.jpg"
+    "image": "images/MissionImpossibleGhostProtocol.jpg"
   },
   {
     "FilmID": 114,
@@ -1305,7 +1305,7 @@
     "Rating": "**°°°",
     "DateAdded": "2012-01-08 10:30:34 +0000",
     "Stars": 2,
-    "image": "images/.jpg"
+    "image": "images/Goon.jpg"
   },
   {
     "FilmID": 115,
@@ -1317,7 +1317,7 @@
     "Rating": "**°°°",
     "DateAdded": "2012-02-18 15:59:20 +0000",
     "Stars": 2,
-    "image": "images/.jpg"
+    "image": "images/ManonaLedge.jpg"
   },
   {
     "FilmID": 116,
@@ -1329,7 +1329,7 @@
     "Rating": "***°°",
     "DateAdded": "2012-02-18 16:01:28 +0000",
     "Stars": 3,
-    "image": "images/.jpg"
+    "image": "images/ADangerousMethod.jpg"
   },
   {
     "FilmID": 117,
@@ -1341,7 +1341,7 @@
     "Rating": "****°",
     "DateAdded": "2012-03-03 09:01:11 +0000",
     "Stars": 4,
-    "image": "images/.jpg"
+    "image": "images/ThisMeansWar.jpg"
   },
   {
     "FilmID": 118,
@@ -1353,7 +1353,7 @@
     "Rating": "**°°°",
     "DateAdded": "2012-03-08 09:19:01 +0000",
     "Stars": 2,
-    "image": "images/.jpg"
+    "image": "images/SafeHouse.jpg"
   },
   {
     "FilmID": 119,
@@ -1365,7 +1365,7 @@
     "Rating": "***°°",
     "DateAdded": "2012-03-17 03:38:53 +0000",
     "Stars": 3,
-    "image": "images/.jpg"
+    "image": "images/Wunderlust.jpg"
   },
   {
     "FilmID": 120,
@@ -1377,7 +1377,7 @@
     "Rating": "***°°",
     "DateAdded": "2012-03-17 03:40:16 +0000",
     "Stars": 3,
-    "image": "images/.jpg"
+    "image": "images/JohnCarter.jpg"
   },
   {
     "FilmID": 121,
