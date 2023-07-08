@@ -28,31 +28,23 @@ myApp.controller('myController', function ($scope, $http, $q, $filter) {
 
                 var chartData = getChartData(response.data);
                 setupChart(chartData);
+
+                var chartDataStars = getChartDataStars(response.data);
+                setupChartStars(chartDataStars);
             });
     };
 
     getChartData = (data) => {
         var dict = {};
-
-        var allYears = [];
         angular.forEach(data, function(value, key) {
             var year = new Date(value.FilmDate).getFullYear();
-            this.push(year);
-
             if (dict.hasOwnProperty(year)) {
                 dict[year] += 1;
             } else {
                 dict[year] = 1;
             }
-            
-        }, allYears);
-        // console.log(allYears);
-
-        // let years = [...new Set(allYears)];
-        // console.log(years);
-
-        console.log(dict);
-
+        });
+        // console.log(dict);
         return dict;
     }
 
@@ -61,7 +53,6 @@ myApp.controller('myController', function ($scope, $http, $q, $filter) {
 
         const options = {
             plugins: {
-                // autocolors: false,
                 datalabels: {
                     color: '#36A2EB'
                 }
@@ -83,7 +74,53 @@ myApp.controller('myController', function ($scope, $http, $q, $filter) {
             options
         };
 
-        let ctx = $("#myChart");
+        let ctx = $("#chartYear");
+
+        let lineGraph = new Chart(ctx, config);
+    };
+
+    
+    getChartDataStars = (data) => {
+        var dict = {};
+        angular.forEach(data, function(value, key) {
+            var star = value.Stars;
+            if (dict.hasOwnProperty(star)) {
+                dict[star] += 1;
+            } else {
+                dict[star] = 1;
+            }
+        });
+        // console.log(dict);
+        return dict;
+    }
+
+    setupChartStars = (chartData) => {
+        Chart.register(ChartDataLabels);
+
+        const options = {
+            plugins: {
+                datalabels: {
+                    color: '#36A2EB'
+                }
+            }
+        }
+
+        const config = {
+            type: 'bar',
+            data: {
+                labels: Object.keys(chartData),
+                datasets: [{
+                    label: 'Ratings Count',
+                    data: Object.values(chartData),
+                    fill: false,
+                    borderColor: 'rgb(75, 192, 192)',
+                    tension: 0.1
+                }]
+            },
+            options
+        };
+
+        let ctx = $("#chartRating");
 
         let lineGraph = new Chart(ctx, config);
     };

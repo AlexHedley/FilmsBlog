@@ -87,7 +87,7 @@
                                 style="margin-bottom: 50px;"
                             >
                                 <div class="card" style="width: 18rem;" data-id="{{review.FilmID}}">
-                                    <!-- <img ng-if="review.image.length > 0" ng-src="/FilmsBlog/{{review.image}}" class="card-img-top" alt="{{review.FilmName}}"> -->
+                                    <img ng-if="review.image.length > 0" ng-src="/FilmsBlog/{{review.image}}" class="card-img-top" alt="{{review.FilmName}}">
                                     <div class="card-header">
                                         {{review.FilmName}}
                                     </div>
@@ -111,9 +111,13 @@
 
                         <div class="row">
                             <div class="col">
-                                <div id="graphs-container">
-                                    <canvas id="myChart"></canvas>
-                                </div>
+                                <canvas id="chartYear"></canvas>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col">
+                                <canvas id="chartRating"></canvas>
                             </div>
                         </div>
 
