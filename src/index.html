@@ -48,45 +48,77 @@
         <div ng-controller="myController">
 
             <div class="container">
-                <div class="row justify-content-md-center">
-                    
-                </div>
+                <!-- <div class="row justify-content-md-center"></div> -->
 
-                <div class="row">
-                    <div class="col-sm">Order:</div>
-                    <div ng-repeat="order in orderOptions"
-                        class="col-sm"
-                    >
-                        {{order.name}}
-                        <a ng-click="setOrder(order.name)">▲</a>
-                        <a ng-click="setOrder(-order.name)">▼</a>
-                    </div>
-                </div>
+                <ul class="nav nav-tabs">
+                    <li class='nav-item'>
+                        <a class='nav-link active' data-toggle='tab' href='#films'>Films</a>
+                    </li>
+                    <li class='nav-item'>
+                        <a class='nav-link' data-toggle='tab' href='#graphs'>Graphs</a>
+                    </li>
+                </ul>
 
-                <br />
+                <!-- Tab panes -->
+                <div class="tab-content">
 
-                <div class="row">
-                    <div 
-                        ng-repeat="review in list | filter:searchText | orderBy:orderProp"
-                        class="col-md-3"
-                        style="margin-bottom: 50px;"
-                    >
-                        <div class="card" style="width: 18rem;" data-id="{{review.FilmID}}">
-                            <img ng-if="review.image.length > 0" ng-src="/FilmsBlog/{{review.image}}" class="card-img-top" alt="{{review.FilmName}}">
-                            <div class="card-header">
-                                {{review.FilmName}}
-                            </div>
-                            <div class="card-body">
-                                <h5 class="card-title">{{review.Cinema}}</h5>
-                                <h6 class="card-subtitle mb-2 text-muted"><span class="badge badge-light"><span class='stars s-{{review.Stars}}'>{{review.Stars}} star(s)</span></span>{{review.Rating}}[{{review.Stars}}]</h6>
-                                <h6 class="card-subtitle mb-2 text-muted">{{review.Place}}</h6>
-                                <p class="card-text"><div ng-bind-html="review.Review"></div></p>
-                            </div>
-                            <div class="card-footer text-muted">
-                                {{review.FilmDate | toDate | date:'mediumDate'}}
+                    <!-- Years -->
+                    <div class='tab-pane container fade in show active' id='films'>
+
+                        <br />
+
+                        <div class="row">
+                            <div class="col-sm">Order:</div>
+                            <div ng-repeat="order in orderOptions"
+                                class="col-sm"
+                            >
+                                {{order.name}}
+                                <a ng-click="setOrder(order.name)">▲</a>
+                                <a ng-click="setOrder(-order.name)">▼</a>
                             </div>
                         </div>
+
+                        <br />
+
+                        <div class="row">
+                            <div 
+                                ng-repeat="review in list | filter:searchText | orderBy:orderProp"
+                                class="col-md-3"
+                                style="margin-bottom: 50px;"
+                            >
+                                <div class="card" style="width: 18rem;" data-id="{{review.FilmID}}">
+                                    <!-- <img ng-if="review.image.length > 0" ng-src="/FilmsBlog/{{review.image}}" class="card-img-top" alt="{{review.FilmName}}"> -->
+                                    <div class="card-header">
+                                        {{review.FilmName}}
+                                    </div>
+                                    <div class="card-body">
+                                        <h5 class="card-title">{{review.Cinema}}</h5>
+                                        <h6 class="card-subtitle mb-2 text-muted"><span class="badge badge-light"><span class='stars s-{{review.Stars}}'>{{review.Stars}} star(s)</span></span>{{review.Rating}}[{{review.Stars}}]</h6>
+                                        <h6 class="card-subtitle mb-2 text-muted">{{review.Place}}</h6>
+                                        <p class="card-text"><div ng-bind-html="review.Review"></div></p>
+                                    </div>
+                                    <div class="card-footer text-muted">
+                                        {{review.FilmDate | toDate | date:'mediumDate'}}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
+
+                    <!-- Graphs -->
+                    <div class='tab-pane container fade' id='graphs'>
+
+                        <div class="row">
+                            <div class="col">
+                                <div id="graphs-container">
+                                    <canvas id="myChart"></canvas>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
                 </div>
 
             </div>
@@ -115,6 +147,10 @@
     <script src="js/vendor/angular.min.js"></script>
     <script src="js/vendor/angular-sanitize.js"></script>
     <script src="js/vendor/angular-filter.min.js"></script>
+    
+    <script src="js/vendor/chart.min.js"></script>
+    <script src="js/vendor/chartjs-plugin-datalabels.min.js"></script>
+
     <script src="js/app.js"></script>
     </body>
 </html>
