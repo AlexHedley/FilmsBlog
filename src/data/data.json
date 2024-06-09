@@ -3029,6 +3029,19 @@
     "Stars": 4,
     "DateAdded": "2024-06-09T16:00:00+00:00",
     "image": "images/KingdomOfThePlanetOfTheApes.jpg",
-    "duration": "1 hr 48 min"
+    "duration": "2 hrs 25 min"
+  },
+  {
+    "FilmID": 262,
+    "FilmName": "Bad Boys Ride Or Die",
+    "FilmDate": "2024-06-09T13:40:00+00:00",
+    "Review": "",
+    "Cinema": "Showcase",
+    "Place": "Teeside",
+    "Rating": "***°°",
+    "Stars": 3,
+    "DateAdded": "2024-06-09T16:00:00+00:00",
+    "image": "images/BadBoys-RideOrDie.png",
+    "duration": "1 hr 55 min"
   }
 ]
