@@ -34,6 +34,6 @@ From: http://alexhedley.com/films/
 
 ## Run
 
-`py -m  http.server`
+`py -m http.server`
 
 - [local site](http://localhost:8000/)
