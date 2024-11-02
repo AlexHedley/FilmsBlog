@@ -1,160 +1,161 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-    <meta name="description" content="Flims Blog">
-    <meta name="keywords" content="films, blog">
-    <meta name="author" content="Alex Hedley">
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css/vendor/bootstrap.min.css">
-    <link rel="stylesheet" href="css/vendor/sticky-footer.css">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-    <!-- <link rel="stylesheet" href="css/vendor/jquery-ui.min.css"> -->
-    <link rel="stylesheet" href="css/vendor/jquery-ui.1.12.1.min.css">
-    <link rel="stylesheet" href="css/styles.css" type="text/css" >
-    <link rel="stylesheet" href="css/stars.css" type="text/css" />
+        <meta name="description" content="Flims Blog" />
+        <meta name="keywords" content="films, blog" />
+        <meta name="author" content="Alex Hedley" />
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="css/vendor/bootstrap.min.css" />
+        <link rel="stylesheet" href="css/vendor/sticky-footer.css" />
+        <link
+            rel="stylesheet"
+            href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
+            integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU"
+            crossorigin="anonymous"
+        />
+        <!-- <link rel="stylesheet" href="css/vendor/jquery-ui.min.css"> -->
+        <link rel="stylesheet" href="css/vendor/jquery-ui.1.12.1.min.css" />
+        <link rel="stylesheet" href="css/styles.css" type="text/css" />
+        <link rel="stylesheet" href="css/stars.css" type="text/css" />
 
-    <link rel="shortcut icon" href="favicon.ico">
+        <link rel="shortcut icon" href="favicon.ico" />
 
-    <!-- Fonts -->
-    <!-- <link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'> -->
+        <!-- Fonts -->
+        <!-- <link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'> -->
 
-    <title>Films Blog</title>
-  </head>
-  <body ng-app="myApp">
-    
-    <!-- Begin page content -->
-    <main role="main" class="container">
+        <title>Films Blog</title>
+    </head>
+    <body ng-app="myApp">
+        <!-- Begin page content -->
+        <main role="main" class="container">
+            <section class="jumbotron title-container text-center">
+                <div>
+                    <h1><i class="fas fa-film"></i> Films Blog</h1>
 
-        <section class="jumbotron title-container text-center">
-            <div>
-                <h1><i class="fas fa-film"></i> Films Blog</h1>
-
-                <div class="row justify-content-md-center">
-                    <div class="col-lg-8">
-                        <div class="input-group search-bar">
-                            <input type="text" class="form-control" ng-model='searchText' placeholder="Search for a Film Blog..." aria-label="Search">
-                            <button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button>
+                    <div class="row justify-content-md-center">
+                        <div class="col-lg-8">
+                            <div class="input-group search-bar">
+                                <input type="text" class="form-control" ng-model="searchText" placeholder="Search for a Film Blog..." aria-label="Search" />
+                                <button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button>
+                            </div>
                         </div>
                     </div>
                 </div>
+            </section>
 
-            </div>
-        </section>
+            <div ng-controller="myController">
+                <div class="container">
+                    <!-- <div class="row justify-content-md-center"></div> -->
 
-        <div ng-controller="myController">
+                    <ul class="nav nav-tabs">
+                        <li class="nav-item">
+                            <a class="nav-link active" data-toggle="tab" href="#films">Films</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#graphs">Graphs</a>
+                        </li>
+                    </ul>
 
-            <div class="container">
-                <!-- <div class="row justify-content-md-center"></div> -->
+                    <!-- Tab panes -->
+                    <div class="tab-content">
+                        <!-- Years -->
+                        <div class="tab-pane container fade in show active" id="films">
+                            <br />
 
-                <ul class="nav nav-tabs">
-                    <li class='nav-item'>
-                        <a class='nav-link active' data-toggle='tab' href='#films'>Films</a>
-                    </li>
-                    <li class='nav-item'>
-                        <a class='nav-link' data-toggle='tab' href='#graphs'>Graphs</a>
-                    </li>
-                </ul>
-
-                <!-- Tab panes -->
-                <div class="tab-content">
-
-                    <!-- Years -->
-                    <div class='tab-pane container fade in show active' id='films'>
-
-                        <br />
-
-                        <div class="row">
-                            <div class="col-sm">Order:</div>
-                            <div ng-repeat="order in orderOptions"
-                                class="col-sm"
-                            >
-                                {{order.name}}
-                                <a ng-click="setOrder(order.name)">▲</a>
-                                <a ng-click="setOrder(-order.name)">▼</a>
+                            <div class="row">
+                                <div class="col-sm">Order:</div>
+                                <div ng-repeat="order in orderOptions" class="col-sm">
+                                    {{order.name}}
+                                    <a ng-click="setOrder(order.name)">▲</a>
+                                    <a ng-click="setOrder(-order.name)">▼</a>
+                                </div>
                             </div>
-                        </div>
 
-                        <br />
+                            <br />
 
-                        <div class="row">
-                            <div 
-                                ng-repeat="review in list | filter:searchText | orderBy:orderProp"
-                                class="col-md-3"
-                                style="margin-bottom: 50px;"
-                            >
-                                <div class="card" style="width: 18rem;" data-id="{{review.FilmID}}">
-                                    <img ng-if="review.image.length > 0" ng-src="/FilmsBlog/{{review.image}}" class="card-img-top" alt="{{review.FilmName}}">
-                                    <div class="card-header">
-                                        {{review.FilmName}}
-                                    </div>
-                                    <div class="card-body">
-                                        <h5 class="card-title">{{review.Cinema}}</h5>
-                                        <h6 class="card-subtitle mb-2 text-muted"><span class="badge badge-light"><span class='stars s-{{review.Stars}}'>{{review.Stars}} star(s)</span></span>{{review.Rating}}[{{review.Stars}}]</h6>
-                                        <h6 class="card-subtitle mb-2 text-muted">{{review.Place}}</h6>
-                                        <p class="card-text"><div ng-bind-html="review.Review"></div></p>
-                                    </div>
-                                    <div class="card-footer text-muted">
-                                        {{review.FilmDate | toDate | date:'mediumDate'}}
+                            <div class="row">
+                                <div ng-repeat="review in list | filter:searchText | orderBy:orderProp" class="col-md-3" style="margin-bottom: 50px">
+                                    <div class="card" style="width: 18rem" data-id="{{review.FilmID}}">
+                                        <img ng-if="review.image.length > 0" ng-src="{{review.image}}" class="card-img-top" alt="{{review.FilmName}}" />
+                                        <div class="card-header">{{review.FilmName}}</div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">{{review.Cinema}}</h5>
+                                            <h6 class="card-subtitle mb-2 text-muted">
+                                                <span class="badge badge-light"><span class="stars s-{{review.Stars}}">{{review.Stars}} star(s)</span></span
+                                                >{{review.Rating}}[{{review.Stars}}]
+                                            </h6>
+                                            <h6 class="card-subtitle mb-2 text-muted">{{review.Place}}</h6>
+                                            <p class="card-text">
+                                                <span ng-bind-html="review.Review"></span>
+                                            </p>
+                                        </div>
+                                        <div class="card-footer text-muted">
+                                            <div class="row" style="margin: 0 !important">
+                                                <span class="col-sm-9">{{review.FilmDate | toDate | date:'mediumDate'}}</span>
+                                                <span class="col-sm-3">
+                                                    <img
+                                                        ng-if="review.Certificate.length > 0"
+                                                        ng-src="images/certificates/{{review.Certificate}}.png"
+                                                        alt="Certificate ({{review.Certificate}})"
+                                                        width="20px"
+                                                    />
+                                                </span>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                    </div>
+                        <!-- Graphs -->
+                        <div class="tab-pane container fade" id="graphs">
+                            <div class="row">
+                                <div class="col">
+                                    <canvas id="chartYear"></canvas>
+                                </div>
+                            </div>
 
-                    <!-- Graphs -->
-                    <div class='tab-pane container fade' id='graphs'>
-
-                        <div class="row">
-                            <div class="col">
-                                <canvas id="chartYear"></canvas>
+                            <div class="row">
+                                <div class="col">
+                                    <canvas id="chartRating"></canvas>
+                                </div>
                             </div>
                         </div>
-
-                        <div class="row">
-                            <div class="col">
-                                <canvas id="chartRating"></canvas>
-                            </div>
-                        </div>
-
                     </div>
-
                 </div>
-
             </div>
+        </main>
 
-        </div>
+        <footer class="footer">
+            <div class="container">
+                <span class="text-muted">Alex Hedley.</span>
+            </div>
+        </footer>
 
-    </main>
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="js/vendor/jquery-3.7.1.min.js"></script>
+        <script>
+            window.jQuery || document.write('<script src="js/vendor/jquery-3.7.1.slim.min.js"><\/script>');
+        </script>
+        <script src="js/vendor/jquery-ui.min.js"></script>
+        <!-- <script src="js/vendor/jquery-ui.1.12.1.min.js"></script> -->
+        <!-- <script src="js/vendor/popper.min.js"></script> -->
+        <script src="js/vendor/bootstrap.min.js"></script>
+        <!-- <script src="js/vendor/jquery.pretty-text-diff.min.js"></script> -->
+        <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script> -->
+        <!-- <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.5/angular.min.js"></script> -->
+        <script src="js/vendor/angular.min.js"></script>
+        <script src="js/vendor/angular-sanitize.js"></script>
+        <script src="js/vendor/angular-filter.min.js"></script>
 
-    <footer class="footer">
-        <div class="container">
-            <span class="text-muted">Alex Hedley.</span>
-        </div>
-    </footer>
+        <script src="js/vendor/chart.min.js"></script>
+        <script src="js/vendor/chartjs-plugin-datalabels.min.js"></script>
 
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="js/vendor/jquery-3.7.1.min.js" ></script>
-    <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.7.1.slim.min.js"><\/script>')</script>
-    <script src="js/vendor/jquery-ui.min.js"></script>
-    <!-- <script src="js/vendor/jquery-ui.1.12.1.min.js"></script> -->
-    <!-- <script src="js/vendor/popper.min.js"></script> -->
-    <script src="js/vendor/bootstrap.min.js"></script>
-    <!-- <script src="js/vendor/jquery.pretty-text-diff.min.js"></script> -->
-    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.min.js"></script> -->
-    <!-- <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.5/angular.min.js"></script> -->
-    <script src="js/vendor/angular.min.js"></script>
-    <script src="js/vendor/angular-sanitize.js"></script>
-    <script src="js/vendor/angular-filter.min.js"></script>
-    
-    <script src="js/vendor/chart.min.js"></script>
-    <script src="js/vendor/chartjs-plugin-datalabels.min.js"></script>
-
-    <script src="js/app.js"></script>
+        <script src="js/app.js"></script>
     </body>
 </html>
