@@ -34,6 +34,10 @@ From: http://alexhedley.com/films/
 
 ## Run
 
+`cd src`
+
 `py -m http.server`
+
+`cd src && py -m http.server`
 
 - [local site](http://localhost:8000/)
