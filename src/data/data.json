@@ -3098,5 +3098,19 @@
         "DateAdded": "2024-11-02T14:00:00+00:00",
         "image": "images/VenomTheLastDance.png",
         "duration": "1hr 50mins"
+    },
+    {
+        "FilmID": 267,
+        "FilmName": "Conclave",
+        "Certificate": "12A",
+        "FilmDate": "2024-12-27T12:30:00+00:00",
+        "Review": "Really enjoyed it, wasn't expecting the ending.",
+        "Cinema": "JamJarCinema",
+        "Place": "Whitley Bay",
+        "Rating": "***°°",
+        "Stars": 3,
+        "DateAdded": "2024-12-28T19:00:00+00:00",
+        "image": "images/conclave.jpeg",
+        "duration": "2hrs"
     }
 ]
