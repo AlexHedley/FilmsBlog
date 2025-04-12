@@ -3007,6 +3007,34 @@
     },
     {
         "FilmID": 260,
+        "FilmName": "Fleabag",
+        "Certificate": "12A",
+        "FilmDate": "2023-06-16T20:00:00+00:00",
+        "Review": "Amazing",
+        "Cinema": "JamJarCinema",
+        "Place": "Whitley Bay",
+        "Rating": "*****",
+        "Stars": 5,
+        "DateAdded": "2025-04-12T10:00:00+00:00",
+        "image": "images/Fleabag.jpg",
+        "duration": "1hr 20mins"
+    },
+    {
+        "FilmID": 261,
+        "FilmName": "Greatest Days",
+        "Certificate": "12",
+        "FilmDate": "2023-06-18T15:15:00+00:00",
+        "Review": "Feel good film",
+        "Cinema": "JamJarCinema",
+        "Place": "Whitley Bay",
+        "Rating": "***°°",
+        "Stars": 3,
+        "DateAdded": "2025-04-12T10:00:00+00:00",
+        "image": "images/Greatest_Days.jpg",
+        "duration": "1hr 52mins"
+    },
+    {
+        "FilmID": 262,
         "FilmName": "Indiana Jones and the Dial of Destiny",
         "FilmDate": "2023-07-05 18:30:00 +0000",
         "Review": "Back to proper Indy",
@@ -3019,7 +3047,7 @@
         "duration": "1 hr 48 min"
     },
     {
-        "FilmID": 261,
+        "FilmID": 263,
         "FilmName": "Wonka",
         "Certificate": "PG",
         "FilmDate": "2023-12-21T18:30:00+0000",
@@ -3033,7 +3061,7 @@
         "duration": "1 hr 56 min"
     },
     {
-        "FilmID": 262,
+        "FilmID": 264,
         "FilmName": "One Life",
         "Certificate": "12A",
         "FilmDate": "2024-01-16T15:30:00+0000",
@@ -3047,7 +3075,21 @@
         "duration": "1 hr 50 min"
     },
     {
-        "FilmID": 263,
+        "FilmID": 265,
+        "FilmName": "Wicked Little Letters",
+        "Certificate": "15",
+        "FilmDate": "2024-02-23T19:00:00+00:00",
+        "Review": "Brilliant",
+        "Cinema": "JamJarCinema",
+        "Place": "Whitley Bay",
+        "Rating": "****°",
+        "Stars": 4,
+        "DateAdded": "2025-04-12T10:00:00+00:00",
+        "image": "images/WickedLittleLetters.jpeg",
+        "duration": "1hr 40mins"
+    },
+    {
+        "FilmID": 266,
         "FilmName": "Kingdom Of The Planet Of The Apes",
         "FilmDate": "2024-05-13T13:40:00+00:00",
         "Review": "",
@@ -3060,7 +3102,7 @@
         "duration": "2 hrs 25 min"
     },
     {
-        "FilmID": 264,
+        "FilmID": 267,
         "FilmName": "Bad Boys Ride Or Die",
         "FilmDate": "2024-06-09T13:40:00+00:00",
         "Review": "",
@@ -3073,7 +3115,7 @@
         "duration": "1 hr 55 min"
     },
     {
-        "FilmID": 265,
+        "FilmID": 268,
         "FilmName": "Deadpool & Wolverine",
         "FilmDate": "2024-08-04T15:15:00+00:00",
         "Review": "",
@@ -3086,7 +3128,7 @@
         "duration": "2hr 8mins"
     },
     {
-        "FilmID": 266,
+        "FilmID": 269,
         "FilmName": "Venom - The Last Dance",
         "Certificate": "15",
         "FilmDate": "2024-10-29T17:30:00+00:00",
@@ -3100,7 +3142,21 @@
         "duration": "1hr 50mins"
     },
     {
-        "FilmID": 267,
+        "FilmID": 270,
+        "FilmName": "Wicked",
+        "Certificate": "PG",
+        "FilmDate": "2024-12-27T12:30:00+00:00",
+        "Review": "Different to the stage show, enjoyed it.",
+        "Cinema": "JamJarCinema",
+        "Place": "Whitley Bay",
+        "Rating": "***°°",
+        "Stars": 3,
+        "DateAdded": "2025-04-12T10:00:00+00:00",
+        "image": "images/Wicked.png",
+        "duration": "2hrs 40mins"
+    },
+    {
+        "FilmID": 271,
         "FilmName": "Conclave",
         "Certificate": "12A",
         "FilmDate": "2024-12-27T12:30:00+00:00",
@@ -3114,7 +3170,7 @@
         "duration": "2hrs"
     },
     {
-        "FilmID": 268,
+        "FilmID": 272,
         "FilmName": "Captain America - Brave New World",
         "Certificate": "12",
         "FilmDate": "2025-01-01T19:30:00+00:00",
@@ -3126,5 +3182,19 @@
         "DateAdded": "2025-04-12T10:00:00+00:00",
         "image": "images/CaptainAmericaBraveNewWorld.png",
         "duration": "1hr 58mins"
+    },
+    {
+        "FilmID": 273,
+        "FilmName": "Macbeth",
+        "Certificate": "",
+        "FilmDate": "2025-02-09T16:00:00+00:00",
+        "Review": "",
+        "Cinema": "JamJarCinema",
+        "Place": "Whitley Bay",
+        "Rating": "***°°",
+        "Stars": 3,
+        "DateAdded": "2025-04-12T10:00:00+00:00",
+        "image": "images/Macbeth.jpg",
+        "duration": "1hr 52mins"
     }
 ]
