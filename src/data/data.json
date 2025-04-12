@@ -3112,5 +3112,19 @@
         "DateAdded": "2024-12-28T19:00:00+00:00",
         "image": "images/conclave.jpeg",
         "duration": "2hrs"
+    },
+    {
+        "FilmID": 268,
+        "FilmName": "Captain America - Brave New World",
+        "Certificate": "12",
+        "FilmDate": "2025-01-01T19:30:00+00:00",
+        "Review": "",
+        "Cinema": "Vue",
+        "Place": "Hartlepool",
+        "Rating": "***°°",
+        "Stars": 3,
+        "DateAdded": "2025-04-12T10:00:00+00:00",
+        "image": "images/CaptainAmericaBraveNewWorld.png",
+        "duration": "1hr 58mins"
     }
 ]
