@@ -3171,20 +3171,6 @@
     },
     {
         "FilmID": 272,
-        "FilmName": "Captain America - Brave New World",
-        "Certificate": "12",
-        "FilmDate": "2025-01-01T19:30:00+00:00",
-        "Review": "",
-        "Cinema": "Vue",
-        "Place": "Hartlepool",
-        "Rating": "***°°",
-        "Stars": 3,
-        "DateAdded": "2025-04-12T10:00:00+00:00",
-        "image": "images/CaptainAmericaBraveNewWorld.png",
-        "duration": "1hr 58mins"
-    },
-    {
-        "FilmID": 273,
         "FilmName": "Macbeth",
         "Certificate": "",
         "FilmDate": "2025-02-09T16:00:00+00:00",
@@ -3196,5 +3182,33 @@
         "DateAdded": "2025-04-12T10:00:00+00:00",
         "image": "images/Macbeth.jpg",
         "duration": "1hr 52mins"
+    },
+    {
+        "FilmID": 273,
+        "FilmName": "Captain America - Brave New World",
+        "Certificate": "12",
+        "FilmDate": "2025-02-14T19:30:00+00:00",
+        "Review": "",
+        "Cinema": "Cineworld",
+        "Place": "Dalton Park",
+        "Rating": "***°°",
+        "Stars": 3,
+        "DateAdded": "2025-04-12T10:00:00+00:00",
+        "image": "images/CaptainAmericaBraveNewWorld.png",
+        "duration": "1hr 58mins"
+    },
+    {
+        "FilmID": 274,
+        "FilmName": "The Amateur",
+        "Certificate": "12A",
+        "FilmDate": "2025-04-12T14:00:00+00:00",
+        "Review": "Slow start but improved.",
+        "Cinema": "JamJarCinema",
+        "Place": "Whitley Bay",
+        "Rating": "***°°",
+        "Stars": 3,
+        "DateAdded": "2025-04-12T10:00:00+00:00",
+        "image": "images/TheAmateur.jpeg",
+        "duration": "2 hr 3 min"
     }
 ]
