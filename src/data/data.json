@@ -3143,6 +3143,20 @@
     },
     {
         "FilmID": 270,
+        "FilmName": "Gladiator II",
+        "Certificate": "15",
+        "FilmDate": "2024-12-12T17:30:00+00:00",
+        "Review": "",
+        "Cinema": "Vue",
+        "Place": "Hartlepool",
+        "Rating": "****°",
+        "Stars": 4,
+        "DateAdded": "2025-04-17T20:00:00+00:00",
+        "image": "images/GladiatorII.jpg",
+        "duration": "2hr 28mins"
+    },
+    {
+        "FilmID": 271,
         "FilmName": "Wicked",
         "Certificate": "PG",
         "FilmDate": "2024-12-27T12:30:00+00:00",
@@ -3156,7 +3170,7 @@
         "duration": "2hrs 40mins"
     },
     {
-        "FilmID": 271,
+        "FilmID": 272,
         "FilmName": "Conclave",
         "Certificate": "12A",
         "FilmDate": "2024-12-27T12:30:00+00:00",
@@ -3170,7 +3184,7 @@
         "duration": "2hrs"
     },
     {
-        "FilmID": 272,
+        "FilmID": 273,
         "FilmName": "Macbeth",
         "Certificate": "",
         "FilmDate": "2025-02-09T16:00:00+00:00",
@@ -3184,7 +3198,7 @@
         "duration": "1hr 52mins"
     },
     {
-        "FilmID": 273,
+        "FilmID": 274,
         "FilmName": "Captain America - Brave New World",
         "Certificate": "12",
         "FilmDate": "2025-02-14T19:30:00+00:00",
@@ -3198,7 +3212,7 @@
         "duration": "1hr 58mins"
     },
     {
-        "FilmID": 274,
+        "FilmID": 275,
         "FilmName": "The Amateur",
         "Certificate": "12A",
         "FilmDate": "2025-04-12T14:00:00+00:00",
