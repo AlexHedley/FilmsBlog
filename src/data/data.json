@@ -2561,7 +2561,7 @@
         "FilmDate": "2015-04-26 00:00:00 +0000",
         "Review": "",
         "Cinema": "Showcase",
-        "Place": "Teeside",
+        "Place": "Teesside",
         "Rating": "",
         "DateAdded": "2015-05-24 08:59:39 +0000",
         "image": "images/AvengersAgeOfUltron.jpg",
@@ -3094,7 +3094,7 @@
         "FilmDate": "2024-05-13T13:40:00+00:00",
         "Review": "",
         "Cinema": "Showcase",
-        "Place": "Teeside",
+        "Place": "Teesside",
         "Rating": "****°",
         "Stars": 4,
         "DateAdded": "2024-06-09T16:00:00+00:00",
@@ -3107,7 +3107,7 @@
         "FilmDate": "2024-06-09T13:40:00+00:00",
         "Review": "",
         "Cinema": "Showcase",
-        "Place": "Teeside",
+        "Place": "Teesside",
         "Rating": "***°°",
         "Stars": 3,
         "DateAdded": "2024-06-09T16:00:00+00:00",
@@ -3224,5 +3224,19 @@
         "DateAdded": "2025-04-12T10:00:00+00:00",
         "image": "images/TheAmateur.jpeg",
         "duration": "2 hr 3 min"
+    },
+    {
+        "FilmID": 276,
+        "FilmName": "The Penguin Lessons",
+        "Certificate": "12A",
+        "FilmDate": "2025-04-19T15:15:00+00:00",
+        "Review": "Enjoyed it, bit of Nick Drake at the end.",
+        "Cinema": "JamJarCinema",
+        "Place": "Whitley Bay",
+        "Rating": "***°°",
+        "Stars": 3,
+        "DateAdded": "2025-04-12T10:00:00+0000",
+        "image": "images/ThePenguinLessons.png",
+        "duration": "1hr 50mins"
     }
 ]
