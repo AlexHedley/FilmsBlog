@@ -3238,5 +3238,19 @@
         "DateAdded": "2025-04-12T10:00:00+0000",
         "image": "images/ThePenguinLessons.png",
         "duration": "1hr 50mins"
+    },
+    {
+        "FilmID": 277,
+        "FilmName": "Star Wars: Episode III Revenge Of The Sith",
+        "Certificate": "12A",
+        "FilmDate": "2025-04-27T20:00:00+00:00",
+        "Review": "",
+        "Cinema": "CineWorld",
+        "Place": "Newcastle",
+        "Rating": "***°°",
+        "Stars": 3,
+        "DateAdded": "2025-04-28T20:00:00+0000",
+        "image": "images/SWE3.jpg",
+        "duration": "2hr 20mins"
     }
 ]
