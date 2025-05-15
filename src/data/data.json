@@ -3252,5 +3252,19 @@
         "DateAdded": "2025-04-28T20:00:00+0000",
         "image": "images/SWE3.jpg",
         "duration": "2hr 20mins"
+    },
+    {
+        "FilmID": 278,
+        "FilmName": "Final Destination Bloodlines",
+        "Certificate": "15",
+        "FilmDate": "2025-05-15T18:45:00+00:00",
+        "Review": "Thoroughly enjoyed it. Humour was fab, so many variations on how people died, loved the nods to the original films.",
+        "Cinema": "Vue",
+        "Place": "Hartlepool",
+        "Rating": "****°",
+        "Stars": 4,
+        "DateAdded": "2025-05-15T21:30:00+00:00",
+        "image": "images/FinalDestinationBloodlines.jpeg",
+        "duration": "1hr 49mins"
     }
 ]
