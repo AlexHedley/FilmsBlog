@@ -82,7 +82,10 @@
                                         <img ng-if="review.image.length > 0" ng-src="{{review.image}}" class="card-img-top" alt="{{review.FilmName}}" />
                                         <div class="card-header">{{review.FilmName}}</div>
                                         <div class="card-body">
-                                            <h5 class="card-title">{{review.Cinema}}</h5>
+                                            <h5 class="card-title">
+                                                <img ng-src="images/cinemas/{{review.Cinema}}.png" alt="{{review.Cinema}}" width="16px" />
+                                                {{review.Cinema}}
+                                            </h5>
                                             <h6 class="card-subtitle mb-2 text-muted">
                                                 <span class="badge badge-light"><span class="stars s-{{review.Stars}}">{{review.Stars}} star(s)</span></span
                                                 >{{review.Rating}}[{{review.Stars}}]
