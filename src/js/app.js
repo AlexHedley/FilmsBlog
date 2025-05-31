@@ -34,6 +34,9 @@ myApp.controller('myController', function ($scope, $http, $q, $filter) {
 
                 var chartDataCertificates = getChartDataCertificates(response.data);
                 setupChartCertificates(chartDataCertificates);
+
+                var chartDataCinema = getChartDataCinema(response.data);
+                setupChartCinema(chartDataCinema);
             });
     };
 

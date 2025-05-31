@@ -147,3 +147,52 @@ setupChartCertificates = (chartData) => {
 
     let lineGraph = new Chart(ctx, config);
 };
+
+// ----- ----- ----- ----- -----
+
+// By Cinema
+getChartDataCinema = (data) => {
+    var dict = {};
+    angular.forEach(data, function (value, key) {
+        var cinema = value.Cinema;
+        if (dict.hasOwnProperty(cinema)) {
+            dict[cinema] += 1;
+        } else {
+            dict[cinema] = 1;
+        }
+    });
+    return dict;
+};
+
+setupChartCinema = (chartData) => {
+    Chart.register(ChartDataLabels);
+
+    const options = {
+        plugins: {
+            datalabels: {
+                color: "#36A2EB",
+            },
+        },
+    };
+
+    const config = {
+        type: "bar",
+        data: {
+            labels: Object.keys(chartData),
+            datasets: [
+                {
+                    label: "Films per Cinema",
+                    data: Object.values(chartData),
+                    fill: false,
+                    borderColor: "rgb(75, 192, 192)",
+                    tension: 0.1,
+                },
+            ],
+        },
+        options,
+    };
+
+    let ctx = $("#chartCinema");
+
+    let lineGraph = new Chart(ctx, config);
+}
