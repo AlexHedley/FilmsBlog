@@ -3298,7 +3298,7 @@
     {
         "FilmID": 281,
         "FilmName": "Salt Path",
-        "Certificate": "",
+        "Certificate": "12A",
         "FilmDate": "2025-06-21T20:00:00+00:00",
         "Review": "",
         "Cinema": "Cineworld",
@@ -3308,5 +3308,19 @@
         "DateAdded": "2025-06-27T12:00:00+00:00",
         "image": "images/the-salt-path.jpg",
         "duration": "1hr 55mins"
+    },
+    {
+        "FilmID": 282,
+        "FilmName": "The Ballad of Wallis Island",
+        "Certificate": "12A",
+        "FilmDate": "2025-06-27T14:00:00+00:00",
+        "Review": "Hope they release a vinyl soundtrack, loved the music.",
+        "Cinema": "JamJarCinema",
+        "Place": "Whitley Bay",
+        "Rating": "****°",
+        "Stars": 4,
+        "DateAdded": "2025-06-27T15:00:00+00:00",
+        "image": "images/the-ballad-of-wallis-island.jpg.jpg",
+        "duration": "1hr 40mins"
     }
 ]
