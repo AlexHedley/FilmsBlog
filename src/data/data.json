@@ -3320,7 +3320,21 @@
         "Rating": "****°",
         "Stars": 4,
         "DateAdded": "2025-06-27T15:00:00+00:00",
-        "image": "images/the-ballad-of-wallis-island.jpg.jpg",
+        "image": "images/the-ballad-of-wallis-island.jpg",
         "duration": "1hr 40mins"
+    },
+    {
+        "FilmID": 283,
+        "FilmName": "F1",
+        "Certificate": "12A",
+        "FilmDate": "2025-07-05T19:15:00+00:00",
+        "Review": "Amazing movie, very tense, had everything it needed.",
+        "Cinema": "JamJarCinema",
+        "Place": "Whitley Bay",
+        "Rating": "*****",
+        "Stars": 5,
+        "DateAdded": "2025-07-05T22:30:00+00:00",
+        "image": "images/F1.jpg",
+        "duration": "2h 35m"
     }
 ]
