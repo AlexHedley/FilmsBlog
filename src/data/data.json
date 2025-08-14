@@ -3336,5 +3336,19 @@
         "DateAdded": "2025-07-05T22:30:00+00:00",
         "image": "images/F1.jpg",
         "duration": "2h 35m"
+    },
+    {
+        "FilmID": 284,
+        "FilmName": "The Naked Gun",
+        "Certificate": "15",
+        "FilmDate": "2025-08-08T18:00:00+00:00",
+        "Review": "Great nod to the original, but not a carbon copy.",
+        "Cinema": "Cineworld",
+        "Place": "Dalton Park",
+        "Rating": "***°°",
+        "Stars": 3,
+        "DateAdded": "2025-08-14T17:00:00+00:00",
+        "image": "images/TheNakedGun.jpeg",
+        "duration": "1h 25m"
     }
 ]
