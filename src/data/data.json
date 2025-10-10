@@ -3350,5 +3350,19 @@
         "DateAdded": "2025-08-14T17:00:00+00:00",
         "image": "images/TheNakedGun.jpeg",
         "duration": "1h 25m"
+    },
+    {
+        "FilmID": 285,
+        "FilmName": "The Roses",
+        "Certificate": "15",
+        "FilmDate": "2025-09-07T13:00:00+00:00",
+        "Review": "Really funny.",
+        "Cinema": "JamJarCinema",
+        "Place": "Whitley Bay",
+        "Rating": "***°°",
+        "Stars": 3,
+        "DateAdded": "2025-10-10T17:00:00+00:00",
+        "image": "images/TheRoses.jpeg",
+        "duration": "1h 45m"
     }
 ]
