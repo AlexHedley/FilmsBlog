@@ -3364,5 +3364,19 @@
         "DateAdded": "2025-10-10T17:00:00+00:00",
         "image": "images/TheRoses.jpg",
         "duration": "1h 45m"
+    },
+    {
+        "FilmID": 286,
+        "FilmName": "Tron Ares",
+        "Certificate": "12A",
+        "FilmDate": "2025-10-10T19:00:00+00:00",
+        "Review": "A nice addition to the series, enjoyed it. Soundtrack was good too. Left open for another.",
+        "Cinema": "JamJarCinema",
+        "Place": "Whitley Bay",
+        "Rating": "***°°",
+        "Stars": 3,
+        "DateAdded": "2025-10-11T12:00:00+00:00",
+        "image": "images/TronAres.jpg",
+        "duration": "1h 59m"
     }
 ]
