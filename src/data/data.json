@@ -3378,5 +3378,19 @@
         "DateAdded": "2025-10-11T12:00:00+00:00",
         "image": "images/TronAres.jpg",
         "duration": "1h 59m"
+    },
+    {
+        "FilmID": 287,
+        "FilmName": "Roofman",
+        "Certificate": "12A",
+        "FilmDate": "2025-10-18T19:00:00+00:00",
+        "Review": "My name's Jeff!",
+        "Cinema": "JamJarCinema",
+        "Place": "Whitley Bay",
+        "Rating": "***°°",
+        "Stars": 3,
+        "DateAdded": "2025-10-19T19:00:00+00:00",
+        "image": "images/Roofman.jpg",
+        "duration": "2hs 6m"
     }
 ]
