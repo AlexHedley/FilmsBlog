@@ -3392,5 +3392,19 @@
         "DateAdded": "2025-10-19T19:00:00+00:00",
         "image": "images/Roofman.jpg",
         "duration": "2hs 6m"
+    },
+    {
+        "FilmID": 288,
+        "FilmName": "Good Fortune",
+        "Certificate": "15",
+        "FilmDate": "2025-10-24T19:15:00+00:00",
+        "Review": "Funny",
+        "Cinema": "MarketPavillion",
+        "Place": "Blyth",
+        "Rating": "***°°",
+        "Stars": 3,
+        "DateAdded": "2025-10-26T17:00:00+00:00",
+        "image": "images/GoodFortune.png",
+        "duration": "1h 37m"
     }
 ]
