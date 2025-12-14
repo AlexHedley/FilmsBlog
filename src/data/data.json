@@ -3406,5 +3406,19 @@
         "DateAdded": "2025-10-26T17:00:00+00:00",
         "image": "images/GoodFortune.png",
         "duration": "1h 37m"
+    },
+    {
+        "FilmID": 289,
+        "FilmName": "Back To The Future",
+        "Certificate": "15",
+        "FilmDate": "2025-11-23T15:30:00+00:00",
+        "Review": "So great to see at the cinema.",
+        "Cinema": "MarketPavillion",
+        "Place": "Blyth",
+        "Rating": "*****",
+        "Stars": 5,
+        "DateAdded": "2025-12-14T16:00:00+00:00",
+        "image": "images/BttF40th.jpeg",
+        "duration": "1hr 56m"
     }
 ]
