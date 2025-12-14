@@ -3435,5 +3435,19 @@
         "image": "images/thefifthstep.jpg",
         "duration": "",
         "link": "https://thefifthstep.ntlive.com/synopsis/"
+    },
+    {
+        "FilmID": 291,
+        "FilmName": "Wicked: For Good",
+        "Certificate": "15",
+        "FilmDate": "2025-11-23T15:30:00+00:00",
+        "Review": "As good as the first.",
+        "Cinema": "JamJarCinema",
+        "Place": "Whitley Bay",
+        "Rating": "***°°",
+        "Stars": 3,
+        "DateAdded": "2025-12-14T16:00:00+00:00",
+        "image": "images/WickedForGood.jpg",
+        "duration": "2hs 17m"
     }
 ]
