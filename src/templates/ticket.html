@@ -1,57 +1,76 @@
 <div class="ticket-container">
     <div class="ticket" ng-if="selectedFilm">
-        <div class="ticket-top">
-            <div class="ticket-admit-label">Admit</div>
-            <div class="ticket-admit-one">One</div>
+
+        <!-- Left: poster strip -->
+        <div class="ticket-poster-section">
             <img ng-if="selectedFilm.image && selectedFilm.image.length > 0"
                  ng-src="{{selectedFilm.image}}"
-                 class="ticket-poster"
+                 class="ticket-bg-poster"
                  alt="{{selectedFilm.FilmName}}" />
-            <div class="ticket-film-name">{{selectedFilm.FilmName}}</div>
-        </div>
-        <div class="ticket-info">
-            <div class="ticket-info-row">
-                <span class="ticket-info-label">Cinema</span>
-                <span class="ticket-info-value">
-                    <img ng-src="images/cinemas/{{selectedFilm.Cinema}}.png" alt="{{selectedFilm.Cinema}}" width="16" />
-                    {{selectedFilm.Cinema}}
-                </span>
+            <div ng-if="!selectedFilm.image || selectedFilm.image.length === 0"
+                 class="ticket-no-poster">
+                <span class="ticket-no-poster-icon">🎬</span>
             </div>
-            <div class="ticket-info-row">
-                <span class="ticket-info-label">Location</span>
-                <span class="ticket-info-value">{{selectedFilm.Place}}</span>
-            </div>
-            <div class="ticket-info-row">
-                <span class="ticket-info-label">Date</span>
-                <span class="ticket-info-value">{{selectedFilm.FilmDate | toDate | date:'mediumDate'}}</span>
-            </div>
-            <div class="ticket-info-row" ng-if="selectedFilm.Duration > 0">
-                <span class="ticket-info-label">Duration</span>
-                <span class="ticket-info-value">{{selectedFilm.Duration | minutesToDuration}}</span>
-            </div>
-            <div class="ticket-info-row" ng-if="selectedFilm.Certificate && selectedFilm.Certificate.length > 0">
-                <span class="ticket-info-label">Certificate</span>
-                <span class="ticket-info-value">
-                    <img ng-src="images/certificates/{{selectedFilm.Certificate}}.png"
-                         alt="Certificate ({{selectedFilm.Certificate}})"
-                         width="20" />
-                    {{selectedFilm.Certificate}}
-                </span>
+            <div class="ticket-poster-overlay">
+                <span class="ticket-admit-label">Admit</span>
+                <span class="ticket-admit-one">One</span>
             </div>
         </div>
-        <div class="ticket-separator"></div>
+
+        <!-- Middle: main info -->
+        <div class="ticket-body">
+            <div class="ticket-film-title">{{selectedFilm.FilmName}}</div>
+            <div class="ticket-gold-rule"></div>
+            <div class="ticket-details">
+                <div class="ticket-detail-item" ng-if="selectedFilm.Cinema">
+                    <span class="ticket-detail-label">Cinema</span>
+                    <span class="ticket-detail-value">
+                        <img ng-src="images/cinemas/{{selectedFilm.Cinema}}.png"
+                             alt="{{selectedFilm.Cinema}}"
+                             class="ticket-cinema-logo-small" />
+                        {{selectedFilm.Cinema}}
+                    </span>
+                </div>
+                <div class="ticket-detail-item" ng-if="selectedFilm.Place">
+                    <span class="ticket-detail-label">Location</span>
+                    <span class="ticket-detail-value">{{selectedFilm.Place}}</span>
+                </div>
+                <div class="ticket-detail-item">
+                    <span class="ticket-detail-label">Date</span>
+                    <span class="ticket-detail-value">{{selectedFilm.FilmDate | toDate | date:'mediumDate'}}</span>
+                </div>
+                <div class="ticket-detail-item" ng-if="selectedFilm.Duration > 0">
+                    <span class="ticket-detail-label">Duration</span>
+                    <span class="ticket-detail-value">{{selectedFilm.Duration | minutesToDuration}}</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Vertical perforated separator -->
+        <div class="ticket-separator-v">
+            <div class="ticket-notch ticket-notch-top"></div>
+            <div class="ticket-notch ticket-notch-bottom"></div>
+        </div>
+
+        <!-- Right: tear-off stub -->
         <div class="ticket-stub">
-            <div class="ticket-stub-film-name">{{selectedFilm.FilmName}}</div>
+            <div class="ticket-stub-title">{{selectedFilm.FilmName}}</div>
             <div class="ticket-stub-stars">
-                <span ng-repeat="n in range(selectedFilm.Stars) track by $index" class="ticket-stub-star">&#9733;</span>
-                <span ng-repeat="n in range(5 - (selectedFilm.Stars || 0)) track by $index" class="ticket-stub-star empty">&#9733;</span>
+                <span ng-repeat="n in range(selectedFilm.Stars) track by $index"
+                      class="ticket-stub-star">&#9733;</span>
+                <span ng-repeat="n in range(5 - (selectedFilm.Stars || 0)) track by $index"
+                      class="ticket-stub-star empty">&#9733;</span>
             </div>
-            <div class="ticket-stub-certificate" ng-if="selectedFilm.Certificate && selectedFilm.Certificate.length > 0">
-                Rated {{selectedFilm.Certificate}}
+            <div class="ticket-stub-cert"
+                 ng-if="selectedFilm.Certificate && selectedFilm.Certificate.length > 0">
+                <img ng-src="images/certificates/{{selectedFilm.Certificate}}.png"
+                     alt="{{selectedFilm.Certificate}}" />
             </div>
-            <div class="ticket-stub-cinema-logo">
-                <img ng-src="images/cinemas/{{selectedFilm.Cinema}}.png" alt="{{selectedFilm.Cinema}}" />
+            <div class="ticket-stub-cinema">
+                <img ng-src="images/cinemas/{{selectedFilm.Cinema}}.png"
+                     alt="{{selectedFilm.Cinema}}" />
             </div>
         </div>
+
     </div>
 </div>
