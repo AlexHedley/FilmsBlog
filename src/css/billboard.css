@@ -1,0 +1,244 @@
+/* Cinema Billboard Directive Styles */
+
+.billboard-wrapper {
+    display: flex;
+    justify-content: center;
+    padding: 30px 15px;
+    background-color: #0d0d0d;
+}
+
+.cinema-billboard {
+    position: relative;
+    background-color: #1a0a00;
+    border: 6px solid #8B4513;
+    border-radius: 4px;
+    padding: 30px 40px;
+    max-width: 700px;
+    width: 100%;
+    box-shadow: 0 0 30px rgba(255, 165, 0, 0.4), inset 0 0 40px rgba(0, 0, 0, 0.6);
+    font-family: 'Arial Black', Arial, sans-serif;
+    color: #f5c842;
+}
+
+/* Light bulbs along the border */
+.cinema-billboard::before,
+.cinema-billboard::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+}
+
+.billboard-bulbs {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+}
+
+.billboard-bulb {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    background-color: #ffd700;
+    border-radius: 50%;
+    box-shadow: 0 0 6px 2px rgba(255, 215, 0, 0.7);
+    animation: bulb-flicker 2.5s infinite;
+}
+
+.billboard-bulb:nth-child(odd) {
+    animation-delay: 0.5s;
+    background-color: #ffec8b;
+}
+
+@keyframes bulb-flicker {
+    0%, 90%, 100% { opacity: 1; }
+    95% { opacity: 0.6; }
+}
+
+/* Header: Cinema name */
+.billboard-header {
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.billboard-cinema-name {
+    font-size: 1.1rem;
+    font-weight: 700;
+    letter-spacing: 0.4em;
+    text-transform: uppercase;
+    color: #ff9900;
+    text-shadow: 0 0 8px rgba(255, 153, 0, 0.6);
+}
+
+.billboard-cinema-place {
+    font-size: 0.8rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #cc7700;
+}
+
+/* Divider */
+.billboard-divider {
+    border: none;
+    border-top: 2px solid #8B4513;
+    margin: 10px 0;
+    box-shadow: 0 1px 0 rgba(255, 165, 0, 0.2);
+}
+
+/* "Now Showing" banner */
+.billboard-now-showing {
+    text-align: center;
+    font-size: 0.75rem;
+    letter-spacing: 0.6em;
+    text-transform: uppercase;
+    color: #cc7700;
+    margin-bottom: 14px;
+}
+
+/* Film content area */
+.billboard-content {
+    display: flex;
+    gap: 24px;
+    align-items: flex-start;
+}
+
+.billboard-poster {
+    flex: 0 0 auto;
+}
+
+.billboard-poster img {
+    width: 160px;
+    height: 220px;
+    object-fit: cover;
+    border: 3px solid #8B4513;
+    box-shadow: 0 0 12px rgba(255, 165, 0, 0.3);
+    display: block;
+}
+
+.billboard-poster-placeholder {
+    width: 160px;
+    height: 220px;
+    background-color: #2a1500;
+    border: 3px solid #8B4513;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #8B4513;
+    font-size: 2.5rem;
+}
+
+/* Film info */
+.billboard-info {
+    flex: 1;
+    min-width: 0;
+}
+
+.billboard-title {
+    font-size: 1.8rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #ffd700;
+    text-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+    line-height: 1.15;
+    margin-bottom: 12px;
+    word-break: break-word;
+}
+
+.billboard-meta {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 14px 0;
+}
+
+.billboard-meta li {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.85rem;
+    color: #cc9933;
+    letter-spacing: 0.05em;
+    padding: 3px 0;
+}
+
+.billboard-meta li i {
+    width: 16px;
+    text-align: center;
+    color: #ff9900;
+}
+
+/* Stars */
+.billboard-stars {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.billboard-star {
+    color: #ffd700;
+    font-size: 1rem;
+    line-height: 1;
+}
+
+.billboard-star.empty {
+    color: #4a3200;
+}
+
+/* Certificate */
+.billboard-certificate {
+    display: inline-block;
+}
+
+.billboard-certificate img {
+    height: 24px;
+    vertical-align: middle;
+}
+
+/* Date display */
+.billboard-date-row {
+    text-align: center;
+    margin-top: 12px;
+}
+
+.billboard-date {
+    font-size: 0.9rem;
+    letter-spacing: 0.15em;
+    color: #cc7700;
+    text-transform: uppercase;
+}
+
+/* Review excerpt */
+.billboard-review {
+    font-size: 0.8rem;
+    color: #aa7722;
+    font-style: italic;
+    border-top: 1px solid #5a3000;
+    padding-top: 8px;
+}
+
+/* Film search result list */
+.billboard-search-results {
+    margin-top: 16px;
+}
+
+.billboard-search-item {
+    cursor: pointer;
+    background: #1a0a00;
+    color: #f5c842;
+    border-color: #8B4513;
+}
+
+.billboard-search-item:hover {
+    background: #2a1500;
+}
+
+.billboard-search-year {
+    font-size: 0.85em;
+    color: #cc7700;
+}
