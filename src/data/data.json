@@ -3426,7 +3426,6 @@
         "DateAdded": "2022-07-28 21:45:00+00:00",
         "Stars": 4,
         "image": "images/ThorLoveAndThunder.jpg",
-        "duration": "1h 59m",
         "Certificate": "12A",
         "Duration": 119
     },
@@ -3441,7 +3440,6 @@
         "Stars": 3,
         "DateAdded": "2022-10-20 18:00:00+00:00",
         "image": "images/TheLostKing.jpg",
-        "duration": "1h 48m",
         "Certificate": "12A",
         "Duration": 108
     },
@@ -3456,7 +3454,6 @@
         "Stars": 5,
         "DateAdded": "2023-02-11 17:00:00+00:00",
         "image": "images/TheWhale.jpeg",
-        "duration": "1h 57m",
         "Certificate": "15",
         "Duration": 117
     },
@@ -3471,7 +3468,6 @@
         "Stars": 3,
         "DateAdded": "2023-04-12 08:30:00+00:00",
         "image": "images/Allelujah.jpg",
-        "duration": "1h 39m",
         "Certificate": "12A",
         "Duration": 99
     },
@@ -3486,7 +3482,6 @@
         "Stars": 3,
         "DateAdded": "2023-04-12 08:30:00+00:00",
         "image": "images/DandD.jpg",
-        "duration": "2h 14m",
         "Certificate": "12A",
         "Duration": 134
     },
@@ -3501,7 +3496,6 @@
         "Stars": 3,
         "DateAdded": "2023-05-08 15:30:00+00:00",
         "image": "images/the-unlikely-pilgrimage-of-harold-fry.jpeg",
-        "duration": "1 hr 48 min",
         "Certificate": "12A",
         "Duration": 108
     },
@@ -3517,7 +3511,6 @@
         "Stars": 5,
         "DateAdded": "2025-04-12T10:00:00+00:00",
         "image": "images/Fleabag.jpg",
-        "duration": "1hr 20mins",
         "Duration": 80
     },
     {
@@ -3532,7 +3525,6 @@
         "Stars": 3,
         "DateAdded": "2025-04-12T10:00:00+00:00",
         "image": "images/Greatest_Days.jpg",
-        "duration": "1hr 52mins",
         "Duration": 112
     },
     {
@@ -3546,7 +3538,6 @@
         "Stars": 4,
         "DateAdded": "2023-07-05 22:00:00+00:00",
         "image": "images/IndianaJones.jpeg",
-        "duration": "2hr 34mins",
         "Certificate": "12A",
         "Duration": 154
     },
@@ -3562,7 +3553,6 @@
         "Stars": 3,
         "DateAdded": "2024-11-02T14:30:00+0000",
         "image": "images/wonka.png",
-        "duration": "1 hr 56 min",
         "Duration": 116
     },
     {
@@ -3577,7 +3567,6 @@
         "Stars": 3,
         "DateAdded": "2024-11-02T14:30:00+0000",
         "image": "images/onelife.jpg",
-        "duration": "1 hr 50 min",
         "Duration": 110
     },
     {
@@ -3592,7 +3581,6 @@
         "Stars": 4,
         "DateAdded": "2025-04-12T10:00:00+00:00",
         "image": "images/WickedLittleLetters.jpeg",
-        "duration": "1hr 40mins",
         "Duration": 100
     },
     {
@@ -3606,7 +3594,6 @@
         "Stars": 4,
         "DateAdded": "2024-06-09T16:00:00+00:00",
         "image": "images/KingdomOfThePlanetOfTheApes.jpg",
-        "duration": "2 hrs 25 min",
         "Certificate": "12A",
         "Duration": 145
     },
@@ -3621,7 +3608,6 @@
         "Stars": 3,
         "DateAdded": "2024-06-09T16:00:00+00:00",
         "image": "images/BadBoys-RideOrDie.png",
-        "duration": "1 hr 55 min",
         "Certificate": "15",
         "Duration": 115
     },
@@ -3636,7 +3622,6 @@
         "Stars": 4,
         "DateAdded": "2024-08-06T14:00:00+00:00",
         "image": "images/DandW.jpg",
-        "duration": "2hr 8mins",
         "Certificate": "15",
         "Duration": 128
     },
@@ -3652,7 +3637,6 @@
         "Stars": 3,
         "DateAdded": "2024-11-02T14:00:00+00:00",
         "image": "images/VenomTheLastDance.png",
-        "duration": "1hr 50mins",
         "Duration": 110
     },
     {
@@ -3667,7 +3651,6 @@
         "Stars": 4,
         "DateAdded": "2025-04-17T20:00:00+00:00",
         "image": "images/GladiatorII.jpg",
-        "duration": "2hr 28mins",
         "Duration": 148
     },
     {
@@ -3682,7 +3665,6 @@
         "Stars": 3,
         "DateAdded": "2025-04-12T10:00:00+00:00",
         "image": "images/Wicked.png",
-        "duration": "2hrs 40mins",
         "Duration": 160
     },
     {
@@ -3697,7 +3679,6 @@
         "Stars": 3,
         "DateAdded": "2024-12-28T19:00:00+00:00",
         "image": "images/conclave.jpeg",
-        "duration": "2hrs",
         "Duration": 120
     },
     {
@@ -3712,7 +3693,6 @@
         "Stars": 3,
         "DateAdded": "2025-04-12T10:00:00+00:00",
         "image": "images/Macbeth.jpg",
-        "duration": "1hr 52mins",
         "Duration": 112
     },
     {
@@ -3727,7 +3707,6 @@
         "Stars": 3,
         "DateAdded": "2025-04-12T10:00:00+00:00",
         "image": "images/CaptainAmericaBraveNewWorld.png",
-        "duration": "1hr 58mins",
         "Duration": 118
     },
     {
@@ -3742,7 +3721,6 @@
         "Stars": 3,
         "DateAdded": "2025-04-12T10:00:00+00:00",
         "image": "images/TheAmateur.jpeg",
-        "duration": "2 hr 3 min",
         "Duration": 123
     },
     {
@@ -3757,7 +3735,6 @@
         "Stars": 3,
         "DateAdded": "2025-04-12T10:00:00+0000",
         "image": "images/ThePenguinLessons.png",
-        "duration": "1hr 50mins",
         "Duration": 110
     },
     {
@@ -3772,7 +3749,6 @@
         "Stars": 3,
         "DateAdded": "2025-04-28T20:00:00+0000",
         "image": "images/SWE3.jpg",
-        "duration": "2hr 20mins",
         "Duration": 140
     },
     {
@@ -3787,7 +3763,6 @@
         "Stars": 4,
         "DateAdded": "2025-05-15T21:30:00+00:00",
         "image": "images/FinalDestinationBloodlines.jpeg",
-        "duration": "1hr 49mins",
         "Duration": 109
     },
     {
@@ -3802,7 +3777,6 @@
         "Stars": 5,
         "DateAdded": "2025-05-31T16:00:00+00:00",
         "image": "images/MissionImpossibleTheFinalReckoning.jpeg",
-        "duration": "2hr 50mins",
         "Duration": 170
     },
     {
@@ -3817,7 +3791,6 @@
         "Stars": 4,
         "DateAdded": "2025-06-13T16:00:00+00:00",
         "image": "images/Ballerina.jpg",
-        "duration": "2hr 5mins",
         "Duration": 125
     },
     {
@@ -3832,7 +3805,6 @@
         "Stars": 4,
         "DateAdded": "2025-06-27T12:00:00+00:00",
         "image": "images/the-salt-path.jpg",
-        "duration": "1hr 55mins",
         "Duration": 115
     },
     {
@@ -3847,7 +3819,6 @@
         "Stars": 4,
         "DateAdded": "2025-06-27T15:00:00+00:00",
         "image": "images/the-ballad-of-wallis-island.jpg",
-        "duration": "1hr 40mins",
         "Duration": 100
     },
     {
@@ -3862,7 +3833,6 @@
         "Stars": 5,
         "DateAdded": "2025-07-05T22:30:00+00:00",
         "image": "images/F1.jpg",
-        "duration": "2h 35m",
         "Duration": 155
     },
     {
@@ -3877,7 +3847,6 @@
         "Stars": 3,
         "DateAdded": "2025-08-14T17:00:00+00:00",
         "image": "images/TheNakedGun.jpeg",
-        "duration": "1h 25m",
         "Duration": 85
     },
     {
@@ -3892,7 +3861,6 @@
         "Stars": 3,
         "DateAdded": "2025-10-10T17:00:00+00:00",
         "image": "images/TheRoses.jpg",
-        "duration": "1h 45m",
         "Duration": 105
     },
     {
@@ -3907,7 +3875,6 @@
         "Stars": 3,
         "DateAdded": "2025-10-11T12:00:00+00:00",
         "image": "images/TronAres.jpg",
-        "duration": "1h 59m",
         "Duration": 119
     },
     {
@@ -3922,7 +3889,6 @@
         "Stars": 3,
         "DateAdded": "2025-10-19T19:00:00+00:00",
         "image": "images/Roofman.jpg",
-        "duration": "2hs 6m",
         "Duration": 126
     },
     {
@@ -3937,7 +3903,6 @@
         "Stars": 3,
         "DateAdded": "2025-10-26T17:00:00+00:00",
         "image": "images/GoodFortune.png",
-        "duration": "1h 37m",
         "Duration": 97
     },
     {
@@ -3952,7 +3917,6 @@
         "Stars": 5,
         "DateAdded": "2025-12-14T16:00:00+00:00",
         "image": "images/BttF40th.jpeg",
-        "duration": "1hr 56m",
         "Duration": 116
     },
     {
@@ -3967,7 +3931,6 @@
         "Stars": 3,
         "DateAdded": "2025-12-14T16:00:00+00:00",
         "image": "images/thefifthstep.jpg",
-        "duration": "",
         "link": "https://thefifthstep.ntlive.com/synopsis/",
         "Duration": 165
     },
@@ -3983,7 +3946,6 @@
         "Stars": 3,
         "DateAdded": "2025-12-14T16:00:00+00:00",
         "image": "images/WickedForGood.jpg",
-        "duration": "2hs 17m",
         "Duration": 137
     },
     {
@@ -3998,7 +3960,6 @@
         "Stars": 5,
         "DateAdded": "2025-12-14T16:00:00+00:00",
         "image": "images/DieHard.jpg",
-        "duration": "2hs 10m",
         "Duration": 131
     },
     {
@@ -4013,7 +3974,6 @@
         "Stars": 5,
         "DateAdded": "2025-12-14T16:00:00+00:00",
         "image": "images/Gremlins2.jpeg",
-        "duration": "1h 46m",
         "Duration": 106
     },
     {
@@ -4028,7 +3988,6 @@
         "Stars": 3,
         "DateAdded": "2026-02-21T22:00:00+00:00",
         "image": "images/Anaconda.png",
-        "duration": "99m",
         "Duration": 99
     },
     {
@@ -4043,7 +4002,6 @@
         "Stars": 3,
         "DateAdded": "2026-02-21T22:00:00+00:00",
         "image": "images/IsThisThingOn.jpg",
-        "duration": "121m",
         "Duration": 121
     },
     {
@@ -4058,7 +4016,6 @@
         "Stars": 3,
         "DateAdded": "2026-02-21T22:00:00+00:00",
         "image": "images/SendHelp.jpeg",
-        "duration": "113m",
         "Duration": 113
     }
 ]

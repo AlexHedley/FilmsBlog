@@ -113,6 +113,9 @@
                                                     />
                                                 </span>
                                             </div>
+                                            <div class="row" style="margin: 0 !important" ng-if="review.Duration > 0">
+                                                <span class="col-sm-12"><i class="fas fa-clock"></i> {{review.Duration | minutesToDuration}}</span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
