@@ -50,10 +50,3 @@ myApp.controller('myController', function ($scope, $http, $q, $filter) {
 
     $scope.init();
 });
-
-myApp.directive('filmTicket', function () {
-    return {
-        restrict: 'E',
-        templateUrl: 'templates/ticket.html'
-    };
-});
