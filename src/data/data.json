@@ -9,7 +9,9 @@
         "Rating": "****°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 4,
-        "image": "images/DejaVu.jpg"
+        "image": "images/DejaVu.jpg",
+        "Certificate": "12A",
+        "Duration": 126
     },
     {
         "FilmID": 2,
@@ -21,7 +23,9 @@
         "Rating": "****°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 4,
-        "image": "images/TheHoliday.jpg"
+        "image": "images/TheHoliday.jpg",
+        "Certificate": "12A",
+        "Duration": 138
     },
     {
         "FilmID": 3,
@@ -33,7 +37,9 @@
         "Rating": "****°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 4,
-        "image": "images/CasinoRoyale.jpg"
+        "image": "images/CasinoRoyale.jpg",
+        "Certificate": "12A",
+        "Duration": 144
     },
     {
         "FilmID": 4,
@@ -45,7 +51,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/Eragon.jpg"
+        "image": "images/Eragon.jpg",
+        "Certificate": "PG",
+        "Duration": 104
     },
     {
         "FilmID": 5,
@@ -57,7 +65,9 @@
         "Rating": "**°°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 2,
-        "image": "images/NightAtTheMuseum.jpg"
+        "image": "images/NightAtTheMuseum.jpg",
+        "Certificate": "PG",
+        "Duration": 108
     },
     {
         "FilmID": 6,
@@ -69,7 +79,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/ThePursuitOfHappyness.jpg"
+        "image": "images/ThePursuitOfHappyness.jpg",
+        "Certificate": "12A",
+        "Duration": 117
     },
     {
         "FilmID": 7,
@@ -81,7 +93,9 @@
         "Rating": "**°°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 2,
-        "image": "images/SmokinAces.jpg"
+        "image": "images/SmokinAces.jpg",
+        "Certificate": "15",
+        "Duration": 108
     },
     {
         "FilmID": 8,
@@ -93,7 +107,9 @@
         "Rating": "**°°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 2,
-        "image": "images/WhiteNoise2.jpg"
+        "image": "images/WhiteNoise2.jpg",
+        "Certificate": "15",
+        "Duration": 99
     },
     {
         "FilmID": 9,
@@ -105,7 +121,9 @@
         "Rating": "**°°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 2,
-        "image": "images/EmployeeOfTheMonth.jpg"
+        "image": "images/EmployeeOfTheMonth.jpg",
+        "Certificate": "12A",
+        "Duration": 103
     },
     {
         "FilmID": 10,
@@ -117,7 +135,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/Venus.jpg"
+        "image": "images/Venus.jpg",
+        "Certificate": "15",
+        "Duration": 96
     },
     {
         "FilmID": 11,
@@ -129,7 +149,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/NotesOnAScandal.jpeg"
+        "image": "images/NotesOnAScandal.jpeg",
+        "Certificate": "15",
+        "Duration": 92
     },
     {
         "FilmID": 12,
@@ -141,7 +163,9 @@
         "Rating": "*°°°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 1,
-        "image": "images/EpicMovie.jpg"
+        "image": "images/EpicMovie.jpg",
+        "Certificate": "12A",
+        "Duration": 86
     },
     {
         "FilmID": 13,
@@ -153,7 +177,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/HotFuzz.jpg"
+        "image": "images/HotFuzz.jpg",
+        "Certificate": "15",
+        "Duration": 121
     },
     {
         "FilmID": 14,
@@ -165,7 +191,9 @@
         "Rating": "**°°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 2,
-        "image": "images/HannibalRising.jpg"
+        "image": "images/HannibalRising.jpg",
+        "Certificate": "18",
+        "Duration": 121
     },
     {
         "FilmID": 15,
@@ -177,7 +205,9 @@
         "Rating": "**°°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 2,
-        "image": "images/TheGoodShepherd.jpg"
+        "image": "images/TheGoodShepherd.jpg",
+        "Certificate": "15",
+        "Duration": 167
     },
     {
         "FilmID": 16,
@@ -189,7 +219,9 @@
         "Rating": "****°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 4,
-        "image": "images/TheNumber23.jpg"
+        "image": "images/TheNumber23.jpg",
+        "Certificate": "15",
+        "Duration": 98
     },
     {
         "FilmID": 17,
@@ -201,7 +233,9 @@
         "Rating": "*****",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 5,
-        "image": "images/TheIllusionist.jpg"
+        "image": "images/TheIllusionist.jpg",
+        "Certificate": "PG",
+        "Duration": 110
     },
     {
         "FilmID": 18,
@@ -213,7 +247,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/MusicandLyrics.jpg"
+        "image": "images/MusicandLyrics.jpg",
+        "Certificate": "PG",
+        "Duration": 104
     },
     {
         "FilmID": 19,
@@ -225,7 +261,9 @@
         "Rating": "*°°°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 1,
-        "image": "images/SchoolforScoundrels.jpg"
+        "image": "images/SchoolforScoundrels.jpg",
+        "Certificate": "15",
+        "Duration": 100
     },
     {
         "FilmID": 20,
@@ -237,7 +275,9 @@
         "Rating": "****°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 4,
-        "image": "images/OutLaw.jpg"
+        "image": "images/OutLaw.jpg",
+        "Certificate": "18",
+        "Duration": 97
     },
     {
         "FilmID": 21,
@@ -249,7 +289,9 @@
         "Rating": "**°°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 2,
-        "image": "images/TheHillsHaveEyes2.jpg"
+        "image": "images/TheHillsHaveEyes2.jpg",
+        "Certificate": "18",
+        "Duration": 89
     },
     {
         "FilmID": 22,
@@ -261,7 +303,9 @@
         "Rating": "**°°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 2,
-        "image": "images/Ratatouille.jpg"
+        "image": "images/Ratatouille.jpg",
+        "Certificate": "U",
+        "Duration": 111
     },
     {
         "FilmID": 23,
@@ -273,7 +317,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/IAmLegend.jpg"
+        "image": "images/IAmLegend.jpg",
+        "Certificate": "15",
+        "Duration": 101
     },
     {
         "FilmID": 24,
@@ -285,7 +331,9 @@
         "Rating": "*°°°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 1,
-        "image": "images/StTrinians.jpg"
+        "image": "images/StTrinians.jpg",
+        "Certificate": "PG",
+        "Duration": 101
     },
     {
         "FilmID": 25,
@@ -297,7 +345,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/VantagePoint.jpg"
+        "image": "images/VantagePoint.jpg",
+        "Certificate": "12A",
+        "Duration": 90
     },
     {
         "FilmID": 26,
@@ -309,7 +359,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/TheOtherBoylenGirl.jpg"
+        "image": "images/TheOtherBoylenGirl.jpg",
+        "Certificate": "12A",
+        "Duration": 115
     },
     {
         "FilmID": 27,
@@ -321,7 +373,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/ForgettingSarahMarshall.jpg"
+        "image": "images/ForgettingSarahMarshall.jpg",
+        "Certificate": "15",
+        "Duration": 111
     },
     {
         "FilmID": 28,
@@ -333,7 +387,9 @@
         "Rating": "****°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 4,
-        "image": "images/IronMan.jpg"
+        "image": "images/IronMan.jpg",
+        "Certificate": "12A",
+        "Duration": 126
     },
     {
         "FilmID": 29,
@@ -345,7 +401,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/IndianaJonesandtheKingdomoftheCrystalSkull.jpg"
+        "image": "images/IndianaJonesandtheKingdomoftheCrystalSkull.jpg",
+        "Certificate": "12A",
+        "Duration": 122
     },
     {
         "FilmID": 30,
@@ -357,7 +415,9 @@
         "Rating": "**°°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 2,
-        "image": "images/Wanted.jpg"
+        "image": "images/Wanted.jpg",
+        "Certificate": "18",
+        "Duration": 110
     },
     {
         "FilmID": 31,
@@ -369,7 +429,9 @@
         "Rating": "**°°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 2,
-        "image": "images/Hancock.jpg"
+        "image": "images/Hancock.jpg",
+        "Certificate": "12A",
+        "Duration": 92
     },
     {
         "FilmID": 32,
@@ -381,7 +443,9 @@
         "Rating": "*****",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 5,
-        "image": "images/TheDarkKnight.jpg"
+        "image": "images/TheDarkKnight.jpg",
+        "Certificate": "12A",
+        "Duration": 152
     },
     {
         "FilmID": 33,
@@ -393,7 +457,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/PineappleExpress.jpg"
+        "image": "images/PineappleExpress.jpg",
+        "Certificate": "15",
+        "Duration": 111
     },
     {
         "FilmID": 34,
@@ -405,7 +471,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/BurnAfterReading.jpg"
+        "image": "images/BurnAfterReading.jpg",
+        "Certificate": "15",
+        "Duration": 96
     },
     {
         "FilmID": 35,
@@ -417,7 +485,9 @@
         "Rating": "****°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 4,
-        "image": "images/QuantumofSolace.jpg"
+        "image": "images/QuantumofSolace.jpg",
+        "Certificate": "12A",
+        "Duration": 106
     },
     {
         "FilmID": 36,
@@ -429,7 +499,9 @@
         "Rating": "****°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 4,
-        "image": "images/FourChristmases.jpg"
+        "image": "images/FourChristmases.jpg",
+        "Certificate": "12A",
+        "Duration": 88
     },
     {
         "FilmID": 37,
@@ -441,7 +513,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/GhostTown.jpg"
+        "image": "images/GhostTown.jpg",
+        "Certificate": "12A",
+        "Duration": 102
     },
     {
         "FilmID": 38,
@@ -453,7 +527,9 @@
         "Rating": "****°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 4,
-        "image": "images/Madagascar2.jpg"
+        "image": "images/Madagascar2.jpg",
+        "Certificate": "U",
+        "Duration": 89
     },
     {
         "FilmID": 39,
@@ -465,7 +541,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/InkHeart.jpg"
+        "image": "images/InkHeart.jpg",
+        "Certificate": "PG",
+        "Duration": 106
     },
     {
         "FilmID": 40,
@@ -477,7 +555,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/YesMan.jpg"
+        "image": "images/YesMan.jpg",
+        "Certificate": "12A",
+        "Duration": 104
     },
     {
         "FilmID": 41,
@@ -489,7 +569,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/RoleModels.jpg"
+        "image": "images/RoleModels.jpg",
+        "Certificate": "15",
+        "Duration": 99
     },
     {
         "FilmID": 42,
@@ -501,7 +583,9 @@
         "Rating": "*°°°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 1,
-        "image": "images/SlumdogMillionaire.jpg"
+        "image": "images/SlumdogMillionaire.jpg",
+        "Certificate": "15",
+        "Duration": 120
     },
     {
         "FilmID": 43,
@@ -513,7 +597,9 @@
         "Rating": "*****",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 5,
-        "image": "images/SevenPounds.jpg"
+        "image": "images/SevenPounds.jpg",
+        "Certificate": "12A",
+        "Duration": 123
     },
     {
         "FilmID": 44,
@@ -525,7 +611,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/UnderworldRiseoftheLycans.jpg"
+        "image": "images/UnderworldRiseoftheLycans.jpg",
+        "Certificate": "15",
+        "Duration": 92
     },
     {
         "FilmID": 45,
@@ -537,7 +625,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/HesJustNotThatIntoYou.jpg"
+        "image": "images/HesJustNotThatIntoYou.jpg",
+        "Certificate": "12A",
+        "Duration": 129
     },
     {
         "FilmID": 46,
@@ -549,7 +639,9 @@
         "Rating": "°°°°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 0,
-        "image": ""
+        "image": "",
+        "Certificate": "15",
+        "Duration": 118
     },
     {
         "FilmID": 47,
@@ -561,7 +653,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/LesbianVampireKillers.jpg"
+        "image": "images/LesbianVampireKillers.jpg",
+        "Certificate": "15",
+        "Duration": 86
     },
     {
         "FilmID": 48,
@@ -573,7 +667,9 @@
         "Rating": "°°°°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 0,
-        "image": "images/Knowing.jpg"
+        "image": "images/Knowing.jpg",
+        "Certificate": "12A",
+        "Duration": 121
     },
     {
         "FilmID": 49,
@@ -585,7 +681,9 @@
         "Rating": "*****",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 5,
-        "image": "images/TheBoatThatRocked.jpg"
+        "image": "images/TheBoatThatRocked.jpg",
+        "Certificate": "15",
+        "Duration": 135
     },
     {
         "FilmID": 50,
@@ -597,7 +695,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/NightAtTheMuseum2.jpg"
+        "image": "images/NightAtTheMuseum2.jpg",
+        "Certificate": "PG",
+        "Duration": 105
     },
     {
         "FilmID": 51,
@@ -609,7 +709,9 @@
         "Rating": "****°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 4,
-        "image": "images/Wolverine.jpg"
+        "image": "images/Wolverine.jpg",
+        "Certificate": "12A",
+        "Duration": 107
     },
     {
         "FilmID": 52,
@@ -621,7 +723,9 @@
         "Rating": "**°°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 2,
-        "image": "images/TerminatorSalvation.jpg"
+        "image": "images/TerminatorSalvation.jpg",
+        "Certificate": "12A",
+        "Duration": 115
     },
     {
         "FilmID": 53,
@@ -633,7 +737,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/AngelsandDemons.jpg"
+        "image": "images/AngelsandDemons.jpg",
+        "Certificate": "12A",
+        "Duration": 138
     },
     {
         "FilmID": 54,
@@ -645,7 +751,9 @@
         "Rating": "****°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 4,
-        "image": "images/TheHangover.jpg"
+        "image": "images/TheHangover.jpg",
+        "Certificate": "15",
+        "Duration": 100
     },
     {
         "FilmID": 55,
@@ -657,7 +765,9 @@
         "Rating": "*****",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 5,
-        "image": "images/Transformers.jpg"
+        "image": "images/Transformers.jpg",
+        "Certificate": "12A",
+        "Duration": 150
     },
     {
         "FilmID": 56,
@@ -669,7 +779,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/HarryPotter5.jpg"
+        "image": "images/HarryPotter5.jpg",
+        "Certificate": "12A",
+        "Duration": 153
     },
     {
         "FilmID": 57,
@@ -681,7 +793,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/Bruno.jpg"
+        "image": "images/Bruno.jpg",
+        "Certificate": "18",
+        "Duration": 83
     },
     {
         "FilmID": 58,
@@ -693,7 +807,9 @@
         "Rating": "****°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 4,
-        "image": "images/TheProposal.jpg"
+        "image": "images/TheProposal.jpg",
+        "Certificate": "12A",
+        "Duration": 108
     },
     {
         "FilmID": 59,
@@ -705,7 +821,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/TheUglyTruth.jpg"
+        "image": "images/TheUglyTruth.jpg",
+        "Certificate": "15",
+        "Duration": 96
     },
     {
         "FilmID": 60,
@@ -717,7 +835,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/TheInventionofLying.jpg"
+        "image": "images/TheInventionofLying.jpg",
+        "Certificate": "12A",
+        "Duration": 100
     },
     {
         "FilmID": 61,
@@ -729,7 +849,9 @@
         "Rating": "*****",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 5,
-        "image": "images/Zombieland.jpg"
+        "image": "images/Zombieland.jpg",
+        "Certificate": "15",
+        "Duration": 88
     },
     {
         "FilmID": 62,
@@ -741,7 +863,9 @@
         "Rating": "**°°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 2,
-        "image": "images/JennifersBody.jpg"
+        "image": "images/JennifersBody.jpg",
+        "Certificate": "15",
+        "Duration": 102
     },
     {
         "FilmID": 63,
@@ -753,7 +877,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/2012.jpg"
+        "image": "images/2012.jpg",
+        "Certificate": "12A",
+        "Duration": 158
     },
     {
         "FilmID": 64,
@@ -765,7 +891,9 @@
         "Rating": "****°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 4,
-        "image": "images/HarryBrown.jpg"
+        "image": "images/HarryBrown.jpg",
+        "Certificate": "18",
+        "Duration": 103
     },
     {
         "FilmID": 65,
@@ -777,7 +905,9 @@
         "Rating": "****°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 4,
-        "image": "images/SherlockHolmes.jpg"
+        "image": "images/SherlockHolmes.jpg",
+        "Certificate": "12A",
+        "Duration": 128
     },
     {
         "FilmID": 67,
@@ -789,7 +919,9 @@
         "Rating": "****°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 4,
-        "image": "images/Avatar.jpg"
+        "image": "images/Avatar.jpg",
+        "Certificate": "12A",
+        "Duration": 162
     },
     {
         "FilmID": 68,
@@ -801,7 +933,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/WhenInRome.jpg"
+        "image": "images/WhenInRome.jpg",
+        "Certificate": "PG",
+        "Duration": 91
     },
     {
         "FilmID": 69,
@@ -813,7 +947,9 @@
         "Rating": "*****",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 5,
-        "image": "images/Inception.jpg"
+        "image": "images/Inception.jpg",
+        "Certificate": "12A",
+        "Duration": 148
     },
     {
         "FilmID": 70,
@@ -825,7 +961,9 @@
         "Rating": "*°°°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 1,
-        "image": "images/Predators.jpg"
+        "image": "images/Predators.jpg",
+        "Certificate": "15",
+        "Duration": 107
     },
     {
         "FilmID": 71,
@@ -837,7 +975,9 @@
         "Rating": "*****",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 5,
-        "image": "images/ToyStory3.jpg"
+        "image": "images/ToyStory3.jpg",
+        "Certificate": "U",
+        "Duration": 103
     },
     {
         "FilmID": 72,
@@ -849,7 +989,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/DinnerForSchmucks.jpg"
+        "image": "images/DinnerForSchmucks.jpg",
+        "Certificate": "12A",
+        "Duration": 114
     },
     {
         "FilmID": 73,
@@ -861,7 +1003,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/Salt.jpg"
+        "image": "images/Salt.jpg",
+        "Certificate": "12A",
+        "Duration": 100
     },
     {
         "FilmID": 74,
@@ -873,7 +1017,9 @@
         "Rating": "**°°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 2,
-        "image": "images/WallStreet2.jpg"
+        "image": "images/WallStreet2.jpg",
+        "Certificate": "12A",
+        "Duration": 133
     },
     {
         "FilmID": 75,
@@ -885,7 +1031,9 @@
         "Rating": "*****",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 5,
-        "image": "images/BacktotheFuture.jpg"
+        "image": "images/BacktotheFuture.jpg",
+        "Certificate": "PG",
+        "Duration": 116
     },
     {
         "FilmID": 76,
@@ -897,7 +1045,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/TheSocialNetwork.jpg"
+        "image": "images/TheSocialNetwork.jpg",
+        "Certificate": "12A",
+        "Duration": 120
     },
     {
         "FilmID": 77,
@@ -909,7 +1059,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 3,
-        "image": "images/BurkeandHare.jpg"
+        "image": "images/BurkeandHare.jpg",
+        "Certificate": "15",
+        "Duration": 91
     },
     {
         "FilmID": 78,
@@ -921,7 +1073,9 @@
         "Rating": "****°",
         "DateAdded": "2010-11-01T00:00:00+00:00",
         "Stars": 4,
-        "image": "images/RED.jpg"
+        "image": "images/RED.jpg",
+        "Certificate": "12A",
+        "Duration": 111
     },
     {
         "FilmID": 83,
@@ -933,7 +1087,9 @@
         "Rating": "****°",
         "DateAdded": "2010-11-14 09:24:47+00:00",
         "Stars": 4,
-        "image": "images/DueDate.jpg"
+        "image": "images/DueDate.jpg",
+        "Certificate": "15",
+        "Duration": 95
     },
     {
         "FilmID": 104,
@@ -945,7 +1101,9 @@
         "Rating": "***°°",
         "DateAdded": "2011-08-29 11:09:26+00:00",
         "Stars": 3,
-        "image": "images/TheInbetweeners.jpg"
+        "image": "images/TheInbetweeners.jpg",
+        "Certificate": "15",
+        "Duration": 97
     },
     {
         "FilmID": 84,
@@ -957,7 +1115,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-11-16 03:12:11+00:00",
         "Stars": 3,
-        "image": "images/Skyline.jpg"
+        "image": "images/Skyline.jpg",
+        "Certificate": "15",
+        "Duration": 94
     },
     {
         "FilmID": 85,
@@ -969,7 +1129,9 @@
         "Rating": "****°",
         "DateAdded": "2010-11-28 08:32:30+00:00",
         "Stars": 4,
-        "image": "images/HarryPotterAndTheDeathlyHallowsPart1.jpg"
+        "image": "images/HarryPotterAndTheDeathlyHallowsPart1.jpg",
+        "Certificate": "12A",
+        "Duration": 146
     },
     {
         "FilmID": 86,
@@ -981,7 +1143,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-12-13 09:11:09+00:00",
         "Stars": 3,
-        "image": "images/Unstoppable.jpg"
+        "image": "images/Unstoppable.jpg",
+        "Certificate": "12A",
+        "Duration": 98
     },
     {
         "FilmID": 87,
@@ -993,7 +1157,9 @@
         "Rating": "***°°",
         "DateAdded": "2010-12-29 07:34:47+00:00",
         "Stars": 3,
-        "image": "images/LittleFockers.jpg"
+        "image": "images/LittleFockers.jpg",
+        "Certificate": "12A",
+        "Duration": 98
     },
     {
         "FilmID": 88,
@@ -1005,7 +1171,9 @@
         "Rating": "****°",
         "DateAdded": "2011-01-03 13:24:54+00:00",
         "Stars": 4,
-        "image": "images/TronLegacy.jpg"
+        "image": "images/TronLegacy.jpg",
+        "Certificate": "PG",
+        "Duration": 125
     },
     {
         "FilmID": 89,
@@ -1017,7 +1185,9 @@
         "Rating": "****°",
         "DateAdded": "2011-01-09 12:32:55+00:00",
         "Stars": 4,
-        "image": "images/TheKingsSpeech.jpg"
+        "image": "images/TheKingsSpeech.jpg",
+        "Certificate": "12A",
+        "Duration": 118
     },
     {
         "FilmID": 90,
@@ -1029,7 +1199,9 @@
         "Rating": "*°°°°",
         "DateAdded": "2011-02-13 14:06:24+00:00",
         "Stars": 1,
-        "image": "images/Hereafter.jpg"
+        "image": "images/Hereafter.jpg",
+        "Certificate": "12A",
+        "Duration": 129
     },
     {
         "FilmID": 91,
@@ -1041,7 +1213,9 @@
         "Rating": "****°",
         "DateAdded": "2011-02-20 16:22:38+00:00",
         "Stars": 4,
-        "image": "images/Paul.jpg"
+        "image": "images/Paul.jpg",
+        "Certificate": "15",
+        "Duration": 104
     },
     {
         "FilmID": 92,
@@ -1053,7 +1227,9 @@
         "Rating": "***°°",
         "DateAdded": "2011-03-18 01:48:00+00:00",
         "Stars": 3,
-        "image": "images/TheAdjustmentBureau.jpg"
+        "image": "images/TheAdjustmentBureau.jpg",
+        "Certificate": "12A",
+        "Duration": 106
     },
     {
         "FilmID": 93,
@@ -1065,7 +1241,9 @@
         "Rating": "****°",
         "DateAdded": "2011-03-28 09:15:53+00:00",
         "Stars": 4,
-        "image": "images/Limitless.jpg"
+        "image": "images/Limitless.jpg",
+        "Certificate": "15",
+        "Duration": 105
     },
     {
         "FilmID": 94,
@@ -1077,7 +1255,9 @@
         "Rating": "**°°°",
         "DateAdded": "2011-04-08 01:21:07+00:00",
         "Stars": 2,
-        "image": "images/BattleLosAngeles.jpg"
+        "image": "images/BattleLosAngeles.jpg",
+        "Certificate": "12A",
+        "Duration": 116
     },
     {
         "FilmID": 95,
@@ -1089,7 +1269,9 @@
         "Rating": "****°",
         "DateAdded": "2011-04-08 01:23:12+00:00",
         "Stars": 4,
-        "image": "images/Unknown.jpeg"
+        "image": "images/Unknown.jpeg",
+        "Certificate": "12A",
+        "Duration": 113
     },
     {
         "FilmID": 96,
@@ -1101,7 +1283,9 @@
         "Rating": "****°",
         "DateAdded": "2011-05-02 07:07:07+00:00",
         "Stars": 4,
-        "image": "images/Arthur.jpg"
+        "image": "images/Arthur.jpg",
+        "Certificate": "12A",
+        "Duration": 110
     },
     {
         "FilmID": 97,
@@ -1113,7 +1297,9 @@
         "Rating": "*****",
         "DateAdded": "2011-05-28 06:12:51+00:00",
         "Stars": 5,
-        "image": "images/TheHangover-Part2.jpg"
+        "image": "images/TheHangover-Part2.jpg",
+        "Certificate": "15",
+        "Duration": 102
     },
     {
         "FilmID": 98,
@@ -1125,7 +1311,9 @@
         "Rating": "***°°",
         "DateAdded": "2011-06-18 07:50:09+00:00",
         "Stars": 3,
-        "image": "images/BadTeacher.jpg"
+        "image": "images/BadTeacher.jpg",
+        "Certificate": "15",
+        "Duration": 89
     },
     {
         "FilmID": 99,
@@ -1137,7 +1325,9 @@
         "Rating": "****°",
         "DateAdded": "2011-06-18 08:03:50+00:00",
         "Stars": 4,
-        "image": "images/X-MenFirstClass.jpg"
+        "image": "images/X-MenFirstClass.jpg",
+        "Certificate": "12A",
+        "Duration": 131
     },
     {
         "FilmID": 100,
@@ -1149,7 +1339,9 @@
         "Rating": "***°°",
         "DateAdded": "2011-07-03 07:21:42+00:00",
         "Stars": 3,
-        "image": "images/TheGreenLantern.jpg"
+        "image": "images/TheGreenLantern.jpg",
+        "Certificate": "12A",
+        "Duration": 114
     },
     {
         "FilmID": 101,
@@ -1161,7 +1353,9 @@
         "Rating": "***°°",
         "DateAdded": "2011-07-31 08:00:24+00:00",
         "Stars": 3,
-        "image": "images/HarryPotterAndTheDeathlyHallowsPart2.jpg"
+        "image": "images/HarryPotterAndTheDeathlyHallowsPart2.jpg",
+        "Certificate": "12A",
+        "Duration": 130
     },
     {
         "FilmID": 102,
@@ -1173,7 +1367,9 @@
         "Rating": "***°°",
         "DateAdded": "2011-07-31 08:01:55+00:00",
         "Stars": 3,
-        "image": "images/HorribleBosses.jpg"
+        "image": "images/HorribleBosses.jpg",
+        "Certificate": "15",
+        "Duration": 98
     },
     {
         "FilmID": 103,
@@ -1185,7 +1381,9 @@
         "Rating": "***°°",
         "DateAdded": "2011-08-07 11:45:03+00:00",
         "Stars": 3,
-        "image": "images/CaptainAmerica.jpg"
+        "image": "images/CaptainAmerica.jpg",
+        "Certificate": "12A",
+        "Duration": 124
     },
     {
         "FilmID": 105,
@@ -1197,7 +1395,9 @@
         "Rating": "***°°",
         "DateAdded": "2011-09-24 00:45:55+00:00",
         "Stars": 3,
-        "image": "images/KillerElite.jpg"
+        "image": "images/KillerElite.jpg",
+        "Certificate": "15",
+        "Duration": 116
     },
     {
         "FilmID": 106,
@@ -1209,7 +1409,9 @@
         "Rating": "***°°",
         "DateAdded": "2011-09-24 00:47:41+00:00",
         "Stars": 3,
-        "image": "images/CowboysandAliens.jpg"
+        "image": "images/CowboysandAliens.jpg",
+        "Certificate": "12A",
+        "Duration": 119
     },
     {
         "FilmID": 107,
@@ -1221,7 +1423,9 @@
         "Rating": "****°",
         "DateAdded": "2011-09-24 00:48:56+00:00",
         "Stars": 4,
-        "image": "images/TinkerTailorSoliderSpy.jpg"
+        "image": "images/TinkerTailorSoliderSpy.jpg",
+        "Certificate": "15",
+        "Duration": 127
     },
     {
         "FilmID": 108,
@@ -1233,7 +1437,9 @@
         "Rating": "*****",
         "DateAdded": "2011-09-30 06:32:20+00:00",
         "Stars": 5,
-        "image": "images/JurassicPark.jpg"
+        "image": "images/JurassicPark.jpg",
+        "Certificate": "PG",
+        "Duration": 127
     },
     {
         "FilmID": 109,
@@ -1245,7 +1451,9 @@
         "Rating": "***°°",
         "DateAdded": "2011-09-30 06:33:55+00:00",
         "Stars": 3,
-        "image": "images/FriendsWithBenefits.jpg"
+        "image": "images/FriendsWithBenefits.jpg",
+        "Certificate": "15",
+        "Duration": 109
     },
     {
         "FilmID": 110,
@@ -1257,7 +1465,9 @@
         "Rating": "****°",
         "DateAdded": "2011-10-20 09:31:29+00:00",
         "Stars": 4,
-        "image": "images/TheThreeMusketeers.jpg"
+        "image": "images/TheThreeMusketeers.jpg",
+        "Certificate": "12A",
+        "Duration": 110
     },
     {
         "FilmID": 111,
@@ -1269,7 +1479,9 @@
         "Rating": "***°°",
         "DateAdded": "2011-12-04 09:18:51+00:00",
         "Stars": 3,
-        "image": "images/InTime.jpg"
+        "image": "images/InTime.jpg",
+        "Certificate": "12A",
+        "Duration": 109
     },
     {
         "FilmID": 112,
@@ -1281,7 +1493,9 @@
         "Rating": "***°°",
         "DateAdded": "2011-12-27 03:48:45+00:00",
         "Stars": 3,
-        "image": "images/SherlockHolmesAGameOfShadows.jpg"
+        "image": "images/SherlockHolmesAGameOfShadows.jpg",
+        "Certificate": "12A",
+        "Duration": 129
     },
     {
         "FilmID": 113,
@@ -1293,7 +1507,9 @@
         "Rating": "****°",
         "DateAdded": "2011-12-27 03:50:58+00:00",
         "Stars": 4,
-        "image": "images/MissionImpossibleGhostProtocol.jpg"
+        "image": "images/MissionImpossibleGhostProtocol.jpg",
+        "Certificate": "12A",
+        "Duration": 133
     },
     {
         "FilmID": 114,
@@ -1305,7 +1521,9 @@
         "Rating": "**°°°",
         "DateAdded": "2012-01-08 10:30:34+00:00",
         "Stars": 2,
-        "image": "images/Goon.jpg"
+        "image": "images/Goon.jpg",
+        "Certificate": "18",
+        "Duration": 92
     },
     {
         "FilmID": 115,
@@ -1317,7 +1535,9 @@
         "Rating": "**°°°",
         "DateAdded": "2012-02-18 15:59:20+00:00",
         "Stars": 2,
-        "image": "images/ManonaLedge.jpg"
+        "image": "images/ManonaLedge.jpg",
+        "Certificate": "12A",
+        "Duration": 102
     },
     {
         "FilmID": 116,
@@ -1329,7 +1549,9 @@
         "Rating": "***°°",
         "DateAdded": "2012-02-18 16:01:28+00:00",
         "Stars": 3,
-        "image": "images/ADangerousMethod.jpg"
+        "image": "images/ADangerousMethod.jpg",
+        "Certificate": "15",
+        "Duration": 99
     },
     {
         "FilmID": 117,
@@ -1341,7 +1563,9 @@
         "Rating": "****°",
         "DateAdded": "2012-03-03 09:01:11+00:00",
         "Stars": 4,
-        "image": "images/ThisMeansWar.jpg"
+        "image": "images/ThisMeansWar.jpg",
+        "Certificate": "12A",
+        "Duration": 97
     },
     {
         "FilmID": 118,
@@ -1353,7 +1577,9 @@
         "Rating": "**°°°",
         "DateAdded": "2012-03-08 09:19:01+00:00",
         "Stars": 2,
-        "image": "images/SafeHouse.jpg"
+        "image": "images/SafeHouse.jpg",
+        "Certificate": "15",
+        "Duration": 115
     },
     {
         "FilmID": 119,
@@ -1365,7 +1591,9 @@
         "Rating": "***°°",
         "DateAdded": "2012-03-17 03:38:53+00:00",
         "Stars": 3,
-        "image": "images/Wunderlust.jpg"
+        "image": "images/Wunderlust.jpg",
+        "Certificate": "15",
+        "Duration": 98
     },
     {
         "FilmID": 120,
@@ -1377,7 +1605,9 @@
         "Rating": "***°°",
         "DateAdded": "2012-03-17 03:40:16+00:00",
         "Stars": 3,
-        "image": "images/JohnCarter.jpg"
+        "image": "images/JohnCarter.jpg",
+        "Certificate": "12A",
+        "Duration": 132
     },
     {
         "FilmID": 121,
@@ -1389,7 +1619,9 @@
         "Rating": "*°°°°",
         "DateAdded": "2012-04-09 02:49:26+00:00",
         "Stars": 1,
-        "image": "images/TheColdLightOfDay.jpg"
+        "image": "images/TheColdLightOfDay.jpg",
+        "Certificate": "12A",
+        "Duration": 93
     },
     {
         "FilmID": 122,
@@ -1401,7 +1633,9 @@
         "Rating": "****°",
         "DateAdded": "2012-04-14 02:07:24+00:00",
         "Stars": 4,
-        "image": "images/Battleship.jpg"
+        "image": "images/Battleship.jpg",
+        "Certificate": "12A",
+        "Duration": 131
     },
     {
         "FilmID": 123,
@@ -1413,7 +1647,9 @@
         "Rating": "****°",
         "DateAdded": "2012-04-19 12:45:21+00:00",
         "Stars": 4,
-        "image": "images/ThePiratesInanAdventureWithScientists.jpg"
+        "image": "images/ThePiratesInanAdventureWithScientists.jpg",
+        "Certificate": "U",
+        "Duration": 88
     },
     {
         "FilmID": 124,
@@ -1425,7 +1661,9 @@
         "Rating": "***°°",
         "DateAdded": "2012-04-22 09:09:15+00:00",
         "Stars": 3,
-        "image": "images/Lockout.jpg"
+        "image": "images/Lockout.jpg",
+        "Certificate": "15",
+        "Duration": 95
     },
     {
         "FilmID": 125,
@@ -1437,7 +1675,9 @@
         "Rating": "****°",
         "DateAdded": "2012-04-29 09:10:18+00:00",
         "Stars": 4,
-        "image": "images/Avengers.jpg"
+        "image": "images/Avengers.jpg",
+        "Certificate": "12A",
+        "Duration": 143
     },
     {
         "FilmID": 126,
@@ -1449,7 +1689,9 @@
         "Rating": "****°",
         "DateAdded": "2012-05-05 15:00:10+00:00",
         "Stars": 4,
-        "image": "images/AmericanReunion.jpg"
+        "image": "images/AmericanReunion.jpg",
+        "Certificate": "15",
+        "Duration": 113
     },
     {
         "FilmID": 127,
@@ -1461,7 +1703,9 @@
         "Rating": "**°°°",
         "DateAdded": "2012-06-03 09:58:29+00:00",
         "Stars": 2,
-        "image": "images/TheDictator.jpg"
+        "image": "images/TheDictator.jpg",
+        "Certificate": "15",
+        "Duration": 83
     },
     {
         "FilmID": 128,
@@ -1473,7 +1717,9 @@
         "Rating": "****°",
         "DateAdded": "2012-06-03 10:03:25+00:00",
         "Stars": 4,
-        "image": "images/SnowWhiteandtheHuntsman.jpg"
+        "image": "images/SnowWhiteandtheHuntsman.jpg",
+        "Certificate": "12A",
+        "Duration": 127
     },
     {
         "FilmID": 129,
@@ -1485,7 +1731,9 @@
         "Rating": "****°",
         "DateAdded": "2012-06-09 10:25:25+00:00",
         "Stars": 4,
-        "image": "images/MIB3.jpg"
+        "image": "images/MIB3.jpg",
+        "Certificate": "PG",
+        "Duration": 106
     },
     {
         "FilmID": 130,
@@ -1497,7 +1745,9 @@
         "Rating": "***°°",
         "DateAdded": "2012-07-01 03:49:17+00:00",
         "Stars": 3,
-        "image": "images/Prometheus.jpg"
+        "image": "images/Prometheus.jpg",
+        "Certificate": "15",
+        "Duration": 124
     },
     {
         "FilmID": 131,
@@ -1509,7 +1759,9 @@
         "Rating": "****°",
         "DateAdded": "2012-07-01 03:50:24+00:00",
         "Stars": 4,
-        "image": "images/RockOfAges.jpg"
+        "image": "images/RockOfAges.jpg",
+        "Certificate": "12A",
+        "Duration": 123
     },
     {
         "FilmID": 132,
@@ -1521,7 +1773,9 @@
         "Rating": "****°",
         "DateAdded": "2012-07-01 03:51:22+00:00",
         "Stars": 4,
-        "image": "images/TheFiveYearEngagement.jpg"
+        "image": "images/TheFiveYearEngagement.jpg",
+        "Certificate": "15",
+        "Duration": 124
     },
     {
         "FilmID": 133,
@@ -1533,7 +1787,9 @@
         "Rating": "°°°°°",
         "DateAdded": "2012-12-28 07:12:42+00:00",
         "Stars": 0,
-        "image": "images/FriendsWithKids.jpg"
+        "image": "images/FriendsWithKids.jpg",
+        "Certificate": "15",
+        "Duration": 100
     },
     {
         "FilmID": 134,
@@ -1545,7 +1801,9 @@
         "Rating": "°°°°°",
         "DateAdded": "2012-12-28 07:13:38+00:00",
         "Stars": 0,
-        "image": "images/SeekingAFriend.jpg"
+        "image": "images/SeekingAFriend.jpg",
+        "Certificate": "15",
+        "Duration": 101
     },
     {
         "FilmID": 135,
@@ -1557,7 +1815,9 @@
         "Rating": "°°°°°",
         "DateAdded": "2012-12-28 07:14:11+00:00",
         "Stars": 0,
-        "image": "images/TheAmazingSpiderman.jpg"
+        "image": "images/TheAmazingSpiderman.jpg",
+        "Certificate": "12A",
+        "Duration": 136
     },
     {
         "FilmID": 136,
@@ -1569,7 +1829,9 @@
         "Rating": "*****",
         "DateAdded": "2012-12-28 07:14:53+00:00",
         "Stars": 5,
-        "image": "images/DarkKnightRises.jpg"
+        "image": "images/DarkKnightRises.jpg",
+        "Certificate": "12A",
+        "Duration": 164
     },
     {
         "FilmID": 137,
@@ -1581,7 +1843,9 @@
         "Rating": "**°°°",
         "DateAdded": "2012-12-28 07:15:21+00:00",
         "Stars": 2,
-        "image": "images/TheExpendables2.jpg"
+        "image": "images/TheExpendables2.jpg",
+        "Certificate": "15",
+        "Duration": 103
     },
     {
         "FilmID": 138,
@@ -1593,7 +1857,9 @@
         "Rating": "°°°°°",
         "DateAdded": "2012-12-28 07:15:55+00:00",
         "Stars": 0,
-        "image": "images/TheBourneLegacy.jpg"
+        "image": "images/TheBourneLegacy.jpg",
+        "Certificate": "12A",
+        "Duration": 135
     },
     {
         "FilmID": 139,
@@ -1605,7 +1871,9 @@
         "Rating": "***°°",
         "DateAdded": "2012-12-28 07:16:28+00:00",
         "Stars": 3,
-        "image": "images/TotalRecall.jpg"
+        "image": "images/TotalRecall.jpg",
+        "Certificate": "12A",
+        "Duration": 118
     },
     {
         "FilmID": 140,
@@ -1617,7 +1885,9 @@
         "Rating": "°°°°°",
         "DateAdded": "2012-12-28 07:17:35+00:00",
         "Stars": 0,
-        "image": "images/ThatsMyBoy.jpg"
+        "image": "images/ThatsMyBoy.jpg",
+        "Certificate": "15",
+        "Duration": 116
     },
     {
         "FilmID": 141,
@@ -1629,7 +1899,9 @@
         "Rating": "°°°°°",
         "DateAdded": "2012-12-28 07:18:18+00:00",
         "Stars": 0,
-        "image": "images/PremiumRush.jpg"
+        "image": "images/PremiumRush.jpg",
+        "Certificate": "12A",
+        "Duration": 91
     },
     {
         "FilmID": 142,
@@ -1641,7 +1913,9 @@
         "Rating": "°°°°°",
         "DateAdded": "2012-12-28 07:18:53+00:00",
         "Stars": 0,
-        "image": "images/Dredd.jpg"
+        "image": "images/Dredd.jpg",
+        "Certificate": "18",
+        "Duration": 95
     },
     {
         "FilmID": 143,
@@ -1653,7 +1927,9 @@
         "Rating": "****°",
         "DateAdded": "2012-12-28 07:22:01+00:00",
         "Stars": 4,
-        "image": "images/Looper.jpg"
+        "image": "images/Looper.jpg",
+        "Certificate": "15",
+        "Duration": 113
     },
     {
         "FilmID": 144,
@@ -1665,7 +1941,9 @@
         "Rating": "****°",
         "DateAdded": "2012-12-28 07:24:21+00:00",
         "Stars": 4,
-        "image": "images/Taken2.jpg"
+        "image": "images/Taken2.jpg",
+        "Certificate": "12A",
+        "Duration": 92
     },
     {
         "FilmID": 145,
@@ -1677,7 +1955,9 @@
         "Rating": "***°°",
         "DateAdded": "2012-12-28 07:25:56+00:00",
         "Stars": 3,
-        "image": "images/RubySparks.jpg"
+        "image": "images/RubySparks.jpg",
+        "Certificate": "15",
+        "Duration": 104
     },
     {
         "FilmID": 146,
@@ -1689,7 +1969,9 @@
         "Rating": "°°°°°",
         "DateAdded": "2012-12-28 07:26:23+00:00",
         "Stars": 0,
-        "image": "images/Madagascar3.jpg"
+        "image": "images/Madagascar3.jpg",
+        "Certificate": "U",
+        "Duration": 93
     },
     {
         "FilmID": 147,
@@ -1701,7 +1983,9 @@
         "Rating": "*****",
         "DateAdded": "2012-12-28 07:26:55+00:00",
         "Stars": 5,
-        "image": "images/Skyfall.jpg"
+        "image": "images/Skyfall.jpg",
+        "Certificate": "12A",
+        "Duration": 143
     },
     {
         "FilmID": 148,
@@ -1713,7 +1997,9 @@
         "Rating": "***°°",
         "DateAdded": "2012-12-28 07:27:25+00:00",
         "Stars": 3,
-        "image": "images/Gambit.jpg"
+        "image": "images/Gambit.jpg",
+        "Certificate": "12A",
+        "Duration": 89
     },
     {
         "FilmID": 149,
@@ -1725,7 +2011,9 @@
         "Rating": "*****",
         "DateAdded": "2012-12-28 07:27:54+00:00",
         "Stars": 5,
-        "image": "images/Hobbit.jpg"
+        "image": "images/Hobbit.jpg",
+        "Certificate": "12A",
+        "Duration": 169
     },
     {
         "FilmID": 150,
@@ -1737,7 +2025,9 @@
         "Rating": "***°°",
         "DateAdded": "2012-12-28 07:28:27+00:00",
         "Stars": 3,
-        "image": "images/PitchPerfect.jpg"
+        "image": "images/PitchPerfect.jpg",
+        "Certificate": "15",
+        "Duration": 112
     },
     {
         "FilmID": 151,
@@ -1749,7 +2039,9 @@
         "Rating": "****°",
         "DateAdded": "2013-02-16 04:58:03+00:00",
         "Stars": 4,
-        "image": "images/AgooddaytoDieHard.jpg"
+        "image": "images/AgooddaytoDieHard.jpg",
+        "Certificate": "12A",
+        "Duration": 98
     },
     {
         "FilmID": 152,
@@ -1761,7 +2053,9 @@
         "Rating": "****°",
         "DateAdded": "2013-04-07 11:43:49+00:00",
         "Stars": 4,
-        "image": "images/LesMiserables.jpg"
+        "image": "images/LesMiserables.jpg",
+        "Certificate": "12A",
+        "Duration": 158
     },
     {
         "FilmID": 153,
@@ -1773,7 +2067,9 @@
         "Rating": "****°",
         "DateAdded": "2013-04-07 11:45:40+00:00",
         "Stars": 4,
-        "image": "images/DjangoUnchained.jpg"
+        "image": "images/DjangoUnchained.jpg",
+        "Certificate": "18",
+        "Duration": 165
     },
     {
         "FilmID": 154,
@@ -1785,7 +2081,9 @@
         "Rating": "***°°",
         "DateAdded": "2013-04-07 11:46:40+00:00",
         "Stars": 3,
-        "image": "images/JackReacher.jpg"
+        "image": "images/JackReacher.jpg",
+        "Certificate": "12A",
+        "Duration": 130
     },
     {
         "FilmID": 155,
@@ -1797,7 +2095,9 @@
         "Rating": "***°°",
         "DateAdded": "2013-04-07 11:48:09+00:00",
         "Stars": 3,
-        "image": "images/Quartet.jpg"
+        "image": "images/Quartet.jpg",
+        "Certificate": "PG",
+        "Duration": 98
     },
     {
         "FilmID": 156,
@@ -1809,7 +2109,9 @@
         "Rating": "****°",
         "DateAdded": "2013-04-07 11:48:50+00:00",
         "Stars": 4,
-        "image": "images/Flight.jpg"
+        "image": "images/Flight.jpg",
+        "Certificate": "15",
+        "Duration": 138
     },
     {
         "FilmID": 157,
@@ -1821,7 +2123,9 @@
         "Rating": "***°°",
         "DateAdded": "2013-04-07 11:49:29+00:00",
         "Stars": 3,
-        "image": "images/ThisIs40.jpg"
+        "image": "images/ThisIs40.jpg",
+        "Certificate": "15",
+        "Duration": 134
     },
     {
         "FilmID": 158,
@@ -1833,7 +2137,9 @@
         "Rating": "***°°",
         "DateAdded": "2013-04-07 11:50:10+00:00",
         "Stars": 3,
-        "image": "images/IdentityTheif.jpg"
+        "image": "images/IdentityTheif.jpg",
+        "Certificate": "15",
+        "Duration": 112
     },
     {
         "FilmID": 159,
@@ -1845,7 +2151,9 @@
         "Rating": "***°°",
         "DateAdded": "2013-04-17 12:07:08+00:00",
         "Stars": 3,
-        "image": "images/Trance.jpg"
+        "image": "images/Trance.jpg",
+        "Certificate": "15",
+        "Duration": 101
     },
     {
         "FilmID": 160,
@@ -1857,7 +2165,9 @@
         "Rating": "***°°",
         "DateAdded": "2013-06-16 09:24:51+00:00",
         "Stars": 3,
-        "image": "images/ThePlaceBeyondThePines.jpg"
+        "image": "images/ThePlaceBeyondThePines.jpg",
+        "Certificate": "15",
+        "Duration": 140
     },
     {
         "FilmID": 161,
@@ -1869,7 +2179,9 @@
         "Rating": "*****",
         "DateAdded": "2013-06-16 09:26:29+00:00",
         "Stars": 5,
-        "image": "images/TheGreatGatsby.jpg"
+        "image": "images/TheGreatGatsby.jpg",
+        "Certificate": "12A",
+        "Duration": 143
     },
     {
         "FilmID": 162,
@@ -1881,7 +2193,9 @@
         "Rating": "****°",
         "DateAdded": "2013-06-16 09:27:04+00:00",
         "Stars": 4,
-        "image": "images/TheHangoverPart3.jpg"
+        "image": "images/TheHangoverPart3.jpg",
+        "Certificate": "15",
+        "Duration": 100
     },
     {
         "FilmID": 163,
@@ -1893,7 +2207,9 @@
         "Rating": "***°°",
         "DateAdded": "2013-06-16 09:27:38+00:00",
         "Stars": 3,
-        "image": "images/FastandFurious6.jpg"
+        "image": "images/FastandFurious6.jpg",
+        "Certificate": "12A",
+        "Duration": 131
     },
     {
         "FilmID": 164,
@@ -1905,7 +2221,9 @@
         "Rating": "****°",
         "DateAdded": "2013-06-16 09:28:13+00:00",
         "Stars": 5,
-        "image": "images/IronMan3.jpg"
+        "image": "images/IronMan3.jpg",
+        "Certificate": "12A",
+        "Duration": 130
     },
     {
         "FilmID": 165,
@@ -1917,7 +2235,9 @@
         "Rating": "***°°",
         "DateAdded": "2013-06-16 09:28:51+00:00",
         "Stars": 3,
-        "image": "images/ThePurge.jpg"
+        "image": "images/ThePurge.jpg",
+        "Certificate": "15",
+        "Duration": 85
     },
     {
         "FilmID": 166,
@@ -1929,7 +2249,9 @@
         "Rating": "**°°°",
         "DateAdded": "2013-06-16 09:29:29+00:00",
         "Stars": 2,
-        "image": "images/OzTheGreatandPowerful.jpg"
+        "image": "images/OzTheGreatandPowerful.jpg",
+        "Certificate": "PG",
+        "Duration": 130
     },
     {
         "FilmID": 168,
@@ -1941,7 +2263,9 @@
         "Rating": "**°°°",
         "DateAdded": "2013-06-16 09:30:39+00:00",
         "Stars": 2,
-        "image": "images/Oblivion.jpg"
+        "image": "images/Oblivion.jpg",
+        "Certificate": "12A",
+        "Duration": 124
     },
     {
         "FilmID": 169,
@@ -1953,7 +2277,9 @@
         "Rating": "****°",
         "DateAdded": "2013-06-23 04:11:33+00:00",
         "Stars": 4,
-        "image": "images/ManOfSteel.jpg"
+        "image": "images/ManOfSteel.jpg",
+        "Certificate": "12A",
+        "Duration": 143
     },
     {
         "FilmID": 170,
@@ -1965,7 +2291,9 @@
         "Rating": "**°°°",
         "DateAdded": "2013-06-23 04:13:03+00:00",
         "Stars": 2,
-        "image": "images/WorldWarZ.jpg"
+        "image": "images/WorldWarZ.jpg",
+        "Certificate": "15",
+        "Duration": 116
     },
     {
         "FilmID": 171,
@@ -1977,7 +2305,9 @@
         "Rating": "***°°",
         "DateAdded": "2013-06-25 10:46:31+00:00",
         "Stars": 3,
-        "image": "images/Snitch.jpg"
+        "image": "images/Snitch.jpg",
+        "Certificate": "15",
+        "Duration": 112
     },
     {
         "FilmID": 172,
@@ -1989,7 +2319,9 @@
         "Rating": "****°",
         "DateAdded": "2013-06-29 12:49:59+00:00",
         "Stars": 4,
-        "image": "images/ThisistheEnd.jpg"
+        "image": "images/ThisistheEnd.jpg",
+        "Certificate": "15",
+        "Duration": 107
     },
     {
         "FilmID": 174,
@@ -2001,7 +2333,9 @@
         "Rating": "*****",
         "DateAdded": "2013-07-08 07:34:23+00:00",
         "Stars": 5,
-        "image": "images/NowYouSeeMe.jpg"
+        "image": "images/NowYouSeeMe.jpg",
+        "Certificate": "12A",
+        "Duration": 116
     },
     {
         "FilmID": 175,
@@ -2013,7 +2347,9 @@
         "Rating": "**°°°",
         "DateAdded": "2013-07-12 09:13:09+00:00",
         "Stars": 2,
-        "image": "images/TheBlingRing.jpg"
+        "image": "images/TheBlingRing.jpg",
+        "Certificate": "15",
+        "Duration": 90
     },
     {
         "FilmID": 176,
@@ -2025,7 +2361,9 @@
         "Rating": "****°",
         "DateAdded": "2013-07-29 12:49:31+00:00",
         "Stars": 4,
-        "image": "images/TheWolverine.jpg"
+        "image": "images/TheWolverine.jpg",
+        "Certificate": "12A",
+        "Duration": 126
     },
     {
         "FilmID": 177,
@@ -2037,7 +2375,9 @@
         "Rating": "***°°",
         "DateAdded": "2013-08-04 03:47:36+00:00",
         "Stars": 3,
-        "image": "images/DespicableMe2.jpg"
+        "image": "images/DespicableMe2.jpg",
+        "Certificate": "U",
+        "Duration": 98
     },
     {
         "FilmID": 197,
@@ -2049,7 +2389,9 @@
         "Rating": "**°°°",
         "DateAdded": "2014-06-15 13:22:13+00:00",
         "Stars": 2,
-        "image": "images/Blended.jpg"
+        "image": "images/Blended.jpg",
+        "Certificate": "12A",
+        "Duration": 117
     },
     {
         "FilmID": 178,
@@ -2061,7 +2403,9 @@
         "Rating": "*****",
         "DateAdded": "2013-08-10 08:30:11+00:00",
         "Stars": 5,
-        "image": "images/AlanPartridgeAlphaPapa.jpg"
+        "image": "images/AlanPartridgeAlphaPapa.jpg",
+        "Certificate": "15",
+        "Duration": 90
     },
     {
         "FilmID": 179,
@@ -2073,7 +2417,9 @@
         "Rating": "***°°",
         "DateAdded": "2013-08-10 12:42:17+00:00",
         "Stars": 3,
-        "image": "images/GrownUps2.jpg"
+        "image": "images/GrownUps2.jpg",
+        "Certificate": "12A",
+        "Duration": 101
     },
     {
         "FilmID": 180,
@@ -2085,7 +2431,9 @@
         "Rating": "***°°",
         "DateAdded": "2013-08-26 05:43:33+00:00",
         "Stars": 3,
-        "image": "images/KickAss2.jpg"
+        "image": "images/KickAss2.jpg",
+        "Certificate": "15",
+        "Duration": 103
     },
     {
         "FilmID": 181,
@@ -2097,7 +2445,9 @@
         "Rating": "***°°",
         "DateAdded": "2013-08-26 05:45:16+00:00",
         "Stars": 3,
-        "image": "images/Red2.jpg"
+        "image": "images/Red2.jpg",
+        "Certificate": "12A",
+        "Duration": 116
     },
     {
         "FilmID": 182,
@@ -2109,7 +2459,9 @@
         "Rating": "***°°",
         "DateAdded": "2013-08-31 05:53:04+00:00",
         "Stars": 3,
-        "image": "images/Elysium.jpg"
+        "image": "images/Elysium.jpg",
+        "Certificate": "15",
+        "Duration": 109
     },
     {
         "FilmID": 183,
@@ -2121,7 +2473,9 @@
         "Rating": "***°°",
         "DateAdded": "2013-09-08 07:06:30+00:00",
         "Stars": 3,
-        "image": "images/WereTheMillers.jpg"
+        "image": "images/WereTheMillers.jpg",
+        "Certificate": "15",
+        "Duration": 110
     },
     {
         "FilmID": 184,
@@ -2133,7 +2487,9 @@
         "Rating": "**°°°",
         "DateAdded": "2013-09-08 07:08:46+00:00",
         "Stars": 2,
-        "image": "images/PainandGain.jpg"
+        "image": "images/PainandGain.jpg",
+        "Certificate": "15",
+        "Duration": 129
     },
     {
         "FilmID": 185,
@@ -2145,7 +2501,9 @@
         "Rating": "*****",
         "DateAdded": "2013-09-08 14:41:31+00:00",
         "Stars": 5,
-        "image": "images/AboutTime.jpg"
+        "image": "images/AboutTime.jpg",
+        "Certificate": "12A",
+        "Duration": 123
     },
     {
         "FilmID": 186,
@@ -2157,7 +2515,9 @@
         "Rating": "****°",
         "DateAdded": "2013-09-15 13:23:27+00:00",
         "Stars": 4,
-        "image": "images/TheWayWayBack.jpg"
+        "image": "images/TheWayWayBack.jpg",
+        "Certificate": "15",
+        "Duration": 103
     },
     {
         "FilmID": 187,
@@ -2169,7 +2529,9 @@
         "Rating": "***°°",
         "DateAdded": "2013-09-27 05:55:01+00:00",
         "Stars": 3,
-        "image": "images/Riddick.jpg"
+        "image": "images/Riddick.jpg",
+        "Certificate": "15",
+        "Duration": 119
     },
     {
         "FilmID": 188,
@@ -2181,7 +2543,9 @@
         "Rating": "***°°",
         "DateAdded": "2013-12-07 04:11:47+00:00",
         "Stars": 3,
-        "image": "images/TheHungerGames.jpg"
+        "image": "images/TheHungerGames.jpg",
+        "Certificate": "12A",
+        "Duration": 146
     },
     {
         "FilmID": 189,
@@ -2193,7 +2557,9 @@
         "Rating": "*****",
         "DateAdded": "2013-12-13 11:15:38+00:00",
         "Stars": 5,
-        "image": "images/TheHobbitTheDesolationofSmaug.jpg"
+        "image": "images/TheHobbitTheDesolationofSmaug.jpg",
+        "Certificate": "12A",
+        "Duration": 161
     },
     {
         "FilmID": 190,
@@ -2205,7 +2571,9 @@
         "Rating": "****°",
         "DateAdded": "2013-12-22 12:33:48+00:00",
         "Stars": 4,
-        "image": "images/Anchorman2.jpg"
+        "image": "images/Anchorman2.jpg",
+        "Certificate": "15",
+        "Duration": 119
     },
     {
         "FilmID": 191,
@@ -2217,7 +2585,9 @@
         "Rating": "***°°",
         "DateAdded": "2014-02-16 06:05:26+00:00",
         "Stars": 3,
-        "image": "images/DeliveryMan.jpg"
+        "image": "images/DeliveryMan.jpg",
+        "Certificate": "12A",
+        "Duration": 105
     },
     {
         "FilmID": 192,
@@ -2229,7 +2599,9 @@
         "Rating": "***°°",
         "DateAdded": "2014-02-16 06:07:07+00:00",
         "Stars": 3,
-        "image": "images/AmericanHustle.jpg"
+        "image": "images/AmericanHustle.jpg",
+        "Certificate": "15",
+        "Duration": 138
     },
     {
         "FilmID": 193,
@@ -2241,7 +2613,9 @@
         "Rating": "***°°",
         "DateAdded": "2014-02-16 06:07:45+00:00",
         "Stars": 3,
-        "image": "images/Robocop.jpg"
+        "image": "images/Robocop.jpg",
+        "Certificate": "12A",
+        "Duration": 117
     },
     {
         "FilmID": 194,
@@ -2253,7 +2627,9 @@
         "Rating": "****°",
         "DateAdded": "2014-02-16 06:09:33+00:00",
         "Stars": 4,
-        "image": "images/TheWolfofWallStreet.jpg"
+        "image": "images/TheWolfofWallStreet.jpg",
+        "Certificate": "18",
+        "Duration": 180
     },
     {
         "FilmID": 195,
@@ -2265,7 +2641,9 @@
         "Rating": "****°",
         "DateAdded": "2014-02-16 12:35:06+00:00",
         "Stars": 4,
-        "image": "images/TheLegoMovie.jpg"
+        "image": "images/TheLegoMovie.jpg",
+        "Certificate": "U",
+        "Duration": 100
     },
     {
         "FilmID": 196,
@@ -2277,7 +2655,9 @@
         "Rating": "****°",
         "DateAdded": "2014-06-15 13:21:19+00:00",
         "Stars": 4,
-        "image": "images/XMenDaysofFuturePast.jpg"
+        "image": "images/XMenDaysofFuturePast.jpg",
+        "Certificate": "12A",
+        "Duration": 132
     },
     {
         "FilmID": 198,
@@ -2289,7 +2669,9 @@
         "Rating": "***°°",
         "DateAdded": "2014-06-15 13:23:31+00:00",
         "Stars": 3,
-        "image": "images/Maleficent.jpg"
+        "image": "images/Maleficent.jpg",
+        "Certificate": "PG",
+        "Duration": 97
     },
     {
         "FilmID": 199,
@@ -2301,7 +2683,9 @@
         "Rating": "*°°°°",
         "DateAdded": "2014-06-29 05:50:37+00:00",
         "Stars": 1,
-        "image": "images/3DaysToKill.jpg"
+        "image": "images/3DaysToKill.jpg",
+        "Certificate": "12A",
+        "Duration": 113
     },
     {
         "FilmID": 200,
@@ -2313,7 +2697,9 @@
         "Rating": "****°",
         "DateAdded": "2014-08-04 05:57:07+00:00",
         "Stars": 4,
-        "image": "images/DawnofthePlanetoftheApes.jpg"
+        "image": "images/DawnofthePlanetoftheApes.jpg",
+        "Certificate": "12A",
+        "Duration": 130
     },
     {
         "FilmID": 201,
@@ -2325,7 +2711,9 @@
         "Rating": "***°°",
         "DateAdded": "2014-08-31 03:33:14+00:00",
         "Stars": 3,
-        "image": "images/Lucy.jpg"
+        "image": "images/Lucy.jpg",
+        "Certificate": "15",
+        "Duration": 89
     },
     {
         "FilmID": 202,
@@ -2337,7 +2725,9 @@
         "Rating": "***°°",
         "DateAdded": "2014-09-18 00:25:31+00:00",
         "Stars": 3,
-        "image": "images/LetsBeCops.jpg"
+        "image": "images/LetsBeCops.jpg",
+        "Certificate": "15",
+        "Duration": 104
     },
     {
         "FilmID": 203,
@@ -2349,7 +2739,9 @@
         "Rating": "***°°",
         "DateAdded": "2014-10-02 05:51:29+00:00",
         "Stars": 3,
-        "image": "images/GuardiansOfTheGalaxy.jpg"
+        "image": "images/GuardiansOfTheGalaxy.jpg",
+        "Certificate": "12A",
+        "Duration": 122
     },
     {
         "FilmID": 204,
@@ -2361,7 +2753,9 @@
         "Rating": "***°°",
         "DateAdded": "2014-10-02 05:52:37+00:00",
         "Stars": 3,
-        "image": "images/AWalkAmongTheTombstones.jpg"
+        "image": "images/AWalkAmongTheTombstones.jpg",
+        "Certificate": "15",
+        "Duration": 114
     },
     {
         "FilmID": 205,
@@ -2373,7 +2767,9 @@
         "Rating": "*****",
         "DateAdded": "2014-10-02 05:53:54+00:00",
         "Stars": 5,
-        "image": "images/TheEqualizer.jpg"
+        "image": "images/TheEqualizer.jpg",
+        "Certificate": "15",
+        "Duration": 132
     },
     {
         "FilmID": 206,
@@ -2385,7 +2781,9 @@
         "Rating": "***°°",
         "DateAdded": "2014-10-14 08:10:36+00:00",
         "Stars": 3,
-        "image": "images/DraculaUntold.jpg"
+        "image": "images/DraculaUntold.jpg",
+        "Certificate": "15",
+        "Duration": 92
     },
     {
         "FilmID": 207,
@@ -2397,7 +2795,9 @@
         "Rating": "***°°",
         "DateAdded": "2014-10-14 08:12:01+00:00",
         "Stars": 3,
-        "image": "images/GoneGirl.jpg"
+        "image": "images/GoneGirl.jpg",
+        "Certificate": "18",
+        "Duration": 149
     },
     {
         "FilmID": 208,
@@ -2409,7 +2809,9 @@
         "Rating": "***°°",
         "DateAdded": "2014-10-14 08:13:14+00:00",
         "Stars": 3,
-        "image": "images/TheMazeRunner.jpg"
+        "image": "images/TheMazeRunner.jpg",
+        "Certificate": "12A",
+        "Duration": 113
     },
     {
         "FilmID": 209,
@@ -2421,7 +2823,9 @@
         "Rating": "****°",
         "DateAdded": "2014-10-25 13:30:05+00:00",
         "Stars": 4,
-        "image": "images/TheJudge.jpg"
+        "image": "images/TheJudge.jpg",
+        "Certificate": "15",
+        "Duration": 141
     },
     {
         "FilmID": 212,
@@ -2433,7 +2837,9 @@
         "Rating": "***",
         "DateAdded": "2014-11-16 14:55:15+00:00",
         "Stars": 3,
-        "image": "images/TheDrop.jpg"
+        "image": "images/TheDrop.jpg",
+        "Certificate": "15",
+        "Duration": 106
     },
     {
         "FilmID": 213,
@@ -2445,7 +2851,9 @@
         "Rating": "***",
         "DateAdded": "2014-11-22 02:42:44+00:00",
         "Stars": 3,
-        "image": "images/TheHungerGamesCatchingFire.jpg"
+        "image": "images/TheHungerGamesCatchingFire.jpg",
+        "Certificate": "12A",
+        "Duration": 123
     },
     {
         "FilmID": 214,
@@ -2457,7 +2865,9 @@
         "Rating": "*****",
         "DateAdded": "2014-12-19 13:24:25+00:00",
         "Stars": 5,
-        "image": "images/TheHobbitTheBattleoftheFiveArmies.jpg"
+        "image": "images/TheHobbitTheBattleoftheFiveArmies.jpg",
+        "Certificate": "12A",
+        "Duration": 144
     },
     {
         "FilmID": 215,
@@ -2469,7 +2879,9 @@
         "Rating": "*****",
         "DateAdded": "2015-01-02 15:45:20+00:00",
         "Stars": 5,
-        "image": "images/TheHobbitTheBattleoftheFiveArmies.jpg"
+        "image": "images/TheHobbitTheBattleoftheFiveArmies.jpg",
+        "Certificate": "12A",
+        "Duration": 144
     },
     {
         "FilmID": 216,
@@ -2481,7 +2893,9 @@
         "Rating": "",
         "DateAdded": "2015-03-20 16:14:20+00:00",
         "image": "images/DumbandDumberer.jpg",
-        "Stars": 3
+        "Stars": 3,
+        "Certificate": "15",
+        "Duration": 110
     },
     {
         "FilmID": 217,
@@ -2493,7 +2907,9 @@
         "Rating": "",
         "DateAdded": "2015-03-20 16:15:18+00:00",
         "Stars": 3,
-        "image": "images/Foxcatcher.jpg"
+        "image": "images/Foxcatcher.jpg",
+        "Certificate": "15",
+        "Duration": 134
     },
     {
         "FilmID": 218,
@@ -2505,7 +2921,9 @@
         "Rating": "",
         "DateAdded": "2015-03-20 16:15:50+00:00",
         "image": "images/Insurgent.jpg",
-        "Stars": 3
+        "Stars": 3,
+        "Certificate": "12A",
+        "Duration": 119
     },
     {
         "FilmID": 219,
@@ -2517,7 +2935,9 @@
         "Rating": "",
         "DateAdded": "2015-05-24 08:56:55+00:00",
         "image": "images/Taken3.jpg",
-        "Stars": 3
+        "Stars": 3,
+        "Certificate": "12A",
+        "Duration": 109
     },
     {
         "FilmID": 220,
@@ -2529,7 +2949,9 @@
         "Rating": "",
         "DateAdded": "2015-05-24 08:57:46+00:00",
         "image": "images/JupiterAscending.jpg",
-        "Stars": 3
+        "Stars": 3,
+        "Certificate": "12A",
+        "Duration": 127
     },
     {
         "FilmID": 221,
@@ -2541,7 +2963,9 @@
         "Rating": "",
         "DateAdded": "2015-05-24 08:58:23+00:00",
         "image": "images/7thSon.jpg",
-        "Stars": 3
+        "Stars": 3,
+        "Certificate": "12A",
+        "Duration": 102
     },
     {
         "FilmID": 222,
@@ -2553,7 +2977,9 @@
         "Rating": "",
         "DateAdded": "2015-05-24 08:59:04+00:00",
         "image": "images/Furious7.jpg",
-        "Stars": 4
+        "Stars": 4,
+        "Certificate": "12A",
+        "Duration": 137
     },
     {
         "FilmID": 223,
@@ -2565,7 +2991,9 @@
         "Rating": "",
         "DateAdded": "2015-05-24 08:59:39+00:00",
         "image": "images/AvengersAgeOfUltron.jpg",
-        "Stars": 3
+        "Stars": 3,
+        "Certificate": "12A",
+        "Duration": 141
     },
     {
         "FilmID": 224,
@@ -2577,7 +3005,9 @@
         "Rating": "",
         "DateAdded": "2015-05-24 09:00:45+00:00",
         "image": "images/Spooks.jpg",
-        "Stars": 5
+        "Stars": 5,
+        "Certificate": "15",
+        "Duration": 104
     },
     {
         "FilmID": 225,
@@ -2589,7 +3019,9 @@
         "Rating": "",
         "DateAdded": "2015-05-24 09:01:12+00:00",
         "image": "images/MadMaxFuryRoad.jpg",
-        "Stars": 3
+        "Stars": 3,
+        "Certificate": "15",
+        "Duration": 120
     },
     {
         "FilmID": 226,
@@ -2601,7 +3033,9 @@
         "Rating": "",
         "DateAdded": "2015-05-24 09:01:59+00:00",
         "image": "images/PitchPerfect2.jpg",
-        "Stars": 3
+        "Stars": 3,
+        "Certificate": "12A",
+        "Duration": 115
     },
     {
         "FilmID": 227,
@@ -2613,7 +3047,9 @@
         "Rating": "",
         "DateAdded": "2015-05-24 09:02:45+00:00",
         "image": "images/Tomorrowland.jpg",
-        "Stars": 3
+        "Stars": 3,
+        "Certificate": "PG",
+        "Duration": 130
     },
     {
         "FilmID": 228,
@@ -2625,7 +3061,9 @@
         "Rating": "",
         "DateAdded": "2015-08-31 00:52:13+00:00",
         "image": "images/JurassicWorld.jpg",
-        "Stars": 4
+        "Stars": 4,
+        "Certificate": "12A",
+        "Duration": 124
     },
     {
         "FilmID": 229,
@@ -2637,7 +3075,9 @@
         "Rating": "",
         "DateAdded": "2015-08-31 00:53:38+00:00",
         "image": "images/Ted2.jpg",
-        "Stars": 1
+        "Stars": 1,
+        "Certificate": "15",
+        "Duration": 115
     },
     {
         "FilmID": 230,
@@ -2649,7 +3089,9 @@
         "Rating": "",
         "DateAdded": "2015-08-31 00:56:32+00:00",
         "image": "images/AntMan.jpg",
-        "Stars": 4
+        "Stars": 4,
+        "Certificate": "12A",
+        "Duration": 117
     },
     {
         "FilmID": 231,
@@ -2661,7 +3103,9 @@
         "Rating": "",
         "DateAdded": "2015-08-31 00:58:27+00:00",
         "image": "images/MissonImpossibleRogueNation.jpg",
-        "Stars": 4
+        "Stars": 4,
+        "Certificate": "12A",
+        "Duration": 131
     },
     {
         "FilmID": 232,
@@ -2673,7 +3117,9 @@
         "Rating": "",
         "DateAdded": "2015-08-31 00:59:24+00:00",
         "image": "images/Pixels.jpg",
-        "Stars": 3
+        "Stars": 3,
+        "Certificate": "PG",
+        "Duration": 105
     },
     {
         "FilmID": 233,
@@ -2685,7 +3131,9 @@
         "Rating": "",
         "DateAdded": "2016-01-16 11:13:45+00:00",
         "image": "images/MazeRunnerTheScorchTrials.jpg",
-        "Stars": 3
+        "Stars": 3,
+        "Certificate": "12A",
+        "Duration": 132
     },
     {
         "FilmID": 234,
@@ -2697,7 +3145,9 @@
         "Rating": "",
         "DateAdded": "2016-01-16 11:18:51+00:00",
         "image": "images/Spectre.jpg",
-        "Stars": 4
+        "Stars": 4,
+        "Certificate": "12A",
+        "Duration": 148
     },
     {
         "FilmID": 235,
@@ -2709,7 +3159,9 @@
         "Rating": "",
         "DateAdded": "2016-01-16 11:15:37+00:00",
         "Stars": 5,
-        "image": "images/Legend.jpg"
+        "image": "images/Legend.jpg",
+        "Certificate": "18",
+        "Duration": 131
     },
     {
         "FilmID": 236,
@@ -2721,7 +3173,9 @@
         "Rating": "",
         "DateAdded": "2016-01-16 11:25:47+00:00",
         "image": "images/TheHungerGamesMockingjayPart2.jpg",
-        "Stars": 3
+        "Stars": 3,
+        "Certificate": "12A",
+        "Duration": 137
     },
     {
         "FilmID": 237,
@@ -2733,7 +3187,9 @@
         "Rating": "",
         "DateAdded": "2016-01-16 11:25:05+00:00",
         "image": "images/StarWarsTheForceAwakens.jpg",
-        "Stars": 4
+        "Stars": 4,
+        "Certificate": "12A",
+        "Duration": 136
     },
     {
         "FilmID": 238,
@@ -2745,7 +3201,9 @@
         "Rating": "",
         "DateAdded": "2020-09-13 14:35:00+00:00",
         "image": "images/LastChristmas.jpg",
-        "Stars": 4
+        "Stars": 4,
+        "Certificate": "12A",
+        "Duration": 103
     },
     {
         "FilmID": 239,
@@ -2757,7 +3215,9 @@
         "Rating": "",
         "DateAdded": "2020-09-13 14:35:00+00:00",
         "image": "images/StarWarsTheRiseOfSkywalker.jpg",
-        "Stars": 3
+        "Stars": 3,
+        "Certificate": "12A",
+        "Duration": 141
     },
     {
         "FilmID": 240,
@@ -2769,7 +3229,9 @@
         "Rating": "",
         "DateAdded": "2020-09-13 14:35:00+00:00",
         "Stars": 3,
-        "image": "images/Tenet.jpg"
+        "image": "images/Tenet.jpg",
+        "Certificate": "12A",
+        "Duration": 150
     },
     {
         "FilmID": 241,
@@ -2781,7 +3243,9 @@
         "Rating": "",
         "DateAdded": "2020-07-14 08:15:00+00:00",
         "image": "images/Cruella.jpg",
-        "Stars": 3
+        "Stars": 3,
+        "Certificate": "PG",
+        "Duration": 134
     },
     {
         "FilmID": 242,
@@ -2793,7 +3257,9 @@
         "Rating": "",
         "DateAdded": "2020-07-14 08:15:00+00:00",
         "image": "images/BlackWidow.jpg",
-        "Stars": 3
+        "Stars": 3,
+        "Certificate": "12A",
+        "Duration": 134
     },
     {
         "FilmID": 243,
@@ -2805,7 +3271,9 @@
         "Rating": "***°°",
         "DateAdded": "2020-07-15 08:30:00+00:00",
         "image": "images/FandF9.jpg",
-        "Stars": 3
+        "Stars": 3,
+        "Certificate": "12A",
+        "Duration": 143
     },
     {
         "FilmID": 244,
@@ -2817,7 +3285,9 @@
         "Rating": "**°°°",
         "DateAdded": "2020-08-02 08:00:00+00:00",
         "image": "images/Old.jpg",
-        "Stars": 2
+        "Stars": 2,
+        "Certificate": "15",
+        "Duration": 108
     },
     {
         "FilmID": 245,
@@ -2829,7 +3299,9 @@
         "Rating": "**°°°",
         "DateAdded": "2020-08-02 08:00:00+00:00",
         "image": "images/TheNest.jpg",
-        "Stars": 2
+        "Stars": 2,
+        "Certificate": "15",
+        "Duration": 107
     },
     {
         "FilmID": 246,
@@ -2841,7 +3313,9 @@
         "Rating": "*****",
         "DateAdded": "2020-10-17 19:30:00+00:00",
         "image": "images/NoTimeToDie.jpg",
-        "Stars": 5
+        "Stars": 5,
+        "Certificate": "12A",
+        "Duration": 163
     },
     {
         "FilmID": 247,
@@ -2853,7 +3327,9 @@
         "Rating": "*****",
         "DateAdded": "2020-12-19 16:55:00+00:00",
         "image": "images/GhostbustersAfterlife.jpg",
-        "Stars": 5
+        "Stars": 5,
+        "Certificate": "PG",
+        "Duration": 124
     },
     {
         "FilmID": 248,
@@ -2865,7 +3341,9 @@
         "Rating": "*****",
         "DateAdded": "2021-12-19 14:30:00+00:00",
         "image": "images/Scrooged.jpg",
-        "Stars": 5
+        "Stars": 5,
+        "Certificate": "PG",
+        "Duration": 101
     },
     {
         "FilmID": 249,
@@ -2877,7 +3355,9 @@
         "Rating": "*****",
         "DateAdded": "2022-03-13 22:30:00+00:00",
         "image": "images/TheBatman.jpg",
-        "Stars": 5
+        "Stars": 5,
+        "Certificate": "15",
+        "Duration": 176
     },
     {
         "FilmID": 250,
@@ -2889,7 +3369,9 @@
         "Rating": "***°°",
         "DateAdded": "2022-03-16 18:00:00+00:00",
         "image": "images/TheDuke.jpg",
-        "Stars": 3
+        "Stars": 3,
+        "Certificate": "12A",
+        "Duration": 96
     },
     {
         "FilmID": 251,
@@ -2901,7 +3383,9 @@
         "Rating": "***°°",
         "DateAdded": "2022-05-15 10:30:00+00:00",
         "image": "images/FantasticBeastsTheSecretsofDumbledore.jpg",
-        "Stars": 3
+        "Stars": 3,
+        "Certificate": "12A",
+        "Duration": 142
     },
     {
         "FilmID": 252,
@@ -2913,7 +3397,9 @@
         "Rating": "****°",
         "DateAdded": "2022-05-15 10:30:00+00:00",
         "image": "images/DrStrangeMultiverseofMadness.jpg",
-        "Stars": 4
+        "Stars": 4,
+        "Certificate": "12A",
+        "Duration": 126
     },
     {
         "FilmID": 253,
@@ -2925,7 +3411,9 @@
         "Rating": "*****",
         "Stars": 5,
         "DateAdded": "2022-10-20 18:00:00+00:00",
-        "image": "images/EEAAO.jpg"
+        "image": "images/EEAAO.jpg",
+        "Certificate": "15",
+        "Duration": 139
     },
     {
         "FilmID": 254,
@@ -2938,7 +3426,8 @@
         "DateAdded": "2022-07-28 21:45:00+00:00",
         "Stars": 4,
         "image": "images/ThorLoveAndThunder.jpg",
-        "duration": "1h 59m"
+        "Certificate": "12A",
+        "Duration": 119
     },
     {
         "FilmID": 255,
@@ -2951,7 +3440,8 @@
         "Stars": 3,
         "DateAdded": "2022-10-20 18:00:00+00:00",
         "image": "images/TheLostKing.jpg",
-        "duration": "1h 48m"
+        "Certificate": "12A",
+        "Duration": 108
     },
     {
         "FilmID": 256,
@@ -2964,7 +3454,8 @@
         "Stars": 5,
         "DateAdded": "2023-02-11 17:00:00+00:00",
         "image": "images/TheWhale.jpeg",
-        "duration": "1h 57m"
+        "Certificate": "15",
+        "Duration": 117
     },
     {
         "FilmID": 257,
@@ -2977,7 +3468,8 @@
         "Stars": 3,
         "DateAdded": "2023-04-12 08:30:00+00:00",
         "image": "images/Allelujah.jpg",
-        "duration": "1h 39m"
+        "Certificate": "12A",
+        "Duration": 99
     },
     {
         "FilmID": 258,
@@ -2990,7 +3482,8 @@
         "Stars": 3,
         "DateAdded": "2023-04-12 08:30:00+00:00",
         "image": "images/DandD.jpg",
-        "duration": "2h 14m"
+        "Certificate": "12A",
+        "Duration": 134
     },
     {
         "FilmID": 259,
@@ -3003,7 +3496,8 @@
         "Stars": 3,
         "DateAdded": "2023-05-08 15:30:00+00:00",
         "image": "images/the-unlikely-pilgrimage-of-harold-fry.jpeg",
-        "duration": "1 hr 48 min"
+        "Certificate": "12A",
+        "Duration": 108
     },
     {
         "FilmID": 260,
@@ -3017,7 +3511,7 @@
         "Stars": 5,
         "DateAdded": "2025-04-12T10:00:00+00:00",
         "image": "images/Fleabag.jpg",
-        "duration": "1hr 20mins"
+        "Duration": 80
     },
     {
         "FilmID": 261,
@@ -3031,7 +3525,7 @@
         "Stars": 3,
         "DateAdded": "2025-04-12T10:00:00+00:00",
         "image": "images/Greatest_Days.jpg",
-        "duration": "1hr 52mins"
+        "Duration": 112
     },
     {
         "FilmID": 262,
@@ -3044,7 +3538,8 @@
         "Stars": 4,
         "DateAdded": "2023-07-05 22:00:00+00:00",
         "image": "images/IndianaJones.jpeg",
-        "duration": "1 hr 48 min"
+        "Certificate": "12A",
+        "Duration": 154
     },
     {
         "FilmID": 263,
@@ -3058,7 +3553,7 @@
         "Stars": 3,
         "DateAdded": "2024-11-02T14:30:00+0000",
         "image": "images/wonka.png",
-        "duration": "1 hr 56 min"
+        "Duration": 116
     },
     {
         "FilmID": 264,
@@ -3072,7 +3567,7 @@
         "Stars": 3,
         "DateAdded": "2024-11-02T14:30:00+0000",
         "image": "images/onelife.jpg",
-        "duration": "1 hr 50 min"
+        "Duration": 110
     },
     {
         "FilmID": 265,
@@ -3086,7 +3581,7 @@
         "Stars": 4,
         "DateAdded": "2025-04-12T10:00:00+00:00",
         "image": "images/WickedLittleLetters.jpeg",
-        "duration": "1hr 40mins"
+        "Duration": 100
     },
     {
         "FilmID": 266,
@@ -3099,7 +3594,8 @@
         "Stars": 4,
         "DateAdded": "2024-06-09T16:00:00+00:00",
         "image": "images/KingdomOfThePlanetOfTheApes.jpg",
-        "duration": "2 hrs 25 min"
+        "Certificate": "12A",
+        "Duration": 145
     },
     {
         "FilmID": 267,
@@ -3112,7 +3608,8 @@
         "Stars": 3,
         "DateAdded": "2024-06-09T16:00:00+00:00",
         "image": "images/BadBoys-RideOrDie.png",
-        "duration": "1 hr 55 min"
+        "Certificate": "15",
+        "Duration": 115
     },
     {
         "FilmID": 268,
@@ -3125,7 +3622,8 @@
         "Stars": 4,
         "DateAdded": "2024-08-06T14:00:00+00:00",
         "image": "images/DandW.jpg",
-        "duration": "2hr 8mins"
+        "Certificate": "15",
+        "Duration": 128
     },
     {
         "FilmID": 269,
@@ -3139,7 +3637,7 @@
         "Stars": 3,
         "DateAdded": "2024-11-02T14:00:00+00:00",
         "image": "images/VenomTheLastDance.png",
-        "duration": "1hr 50mins"
+        "Duration": 110
     },
     {
         "FilmID": 270,
@@ -3153,7 +3651,7 @@
         "Stars": 4,
         "DateAdded": "2025-04-17T20:00:00+00:00",
         "image": "images/GladiatorII.jpg",
-        "duration": "2hr 28mins"
+        "Duration": 148
     },
     {
         "FilmID": 271,
@@ -3167,7 +3665,7 @@
         "Stars": 3,
         "DateAdded": "2025-04-12T10:00:00+00:00",
         "image": "images/Wicked.png",
-        "duration": "2hrs 40mins"
+        "Duration": 160
     },
     {
         "FilmID": 272,
@@ -3181,7 +3679,7 @@
         "Stars": 3,
         "DateAdded": "2024-12-28T19:00:00+00:00",
         "image": "images/conclave.jpeg",
-        "duration": "2hrs"
+        "Duration": 120
     },
     {
         "FilmID": 273,
@@ -3195,7 +3693,7 @@
         "Stars": 3,
         "DateAdded": "2025-04-12T10:00:00+00:00",
         "image": "images/Macbeth.jpg",
-        "duration": "1hr 52mins"
+        "Duration": 112
     },
     {
         "FilmID": 274,
@@ -3209,7 +3707,7 @@
         "Stars": 3,
         "DateAdded": "2025-04-12T10:00:00+00:00",
         "image": "images/CaptainAmericaBraveNewWorld.png",
-        "duration": "1hr 58mins"
+        "Duration": 118
     },
     {
         "FilmID": 275,
@@ -3223,7 +3721,7 @@
         "Stars": 3,
         "DateAdded": "2025-04-12T10:00:00+00:00",
         "image": "images/TheAmateur.jpeg",
-        "duration": "2 hr 3 min"
+        "Duration": 123
     },
     {
         "FilmID": 276,
@@ -3237,7 +3735,7 @@
         "Stars": 3,
         "DateAdded": "2025-04-12T10:00:00+0000",
         "image": "images/ThePenguinLessons.png",
-        "duration": "1hr 50mins"
+        "Duration": 110
     },
     {
         "FilmID": 277,
@@ -3251,7 +3749,7 @@
         "Stars": 3,
         "DateAdded": "2025-04-28T20:00:00+0000",
         "image": "images/SWE3.jpg",
-        "duration": "2hr 20mins"
+        "Duration": 140
     },
     {
         "FilmID": 278,
@@ -3265,7 +3763,7 @@
         "Stars": 4,
         "DateAdded": "2025-05-15T21:30:00+00:00",
         "image": "images/FinalDestinationBloodlines.jpeg",
-        "duration": "1hr 49mins"
+        "Duration": 109
     },
     {
         "FilmID": 279,
@@ -3279,7 +3777,7 @@
         "Stars": 5,
         "DateAdded": "2025-05-31T16:00:00+00:00",
         "image": "images/MissionImpossibleTheFinalReckoning.jpeg",
-        "duration": "2hr 50mins"
+        "Duration": 170
     },
     {
         "FilmID": 280,
@@ -3293,7 +3791,7 @@
         "Stars": 4,
         "DateAdded": "2025-06-13T16:00:00+00:00",
         "image": "images/Ballerina.jpg",
-        "duration": "2hr 5mins"
+        "Duration": 125
     },
     {
         "FilmID": 281,
@@ -3307,7 +3805,7 @@
         "Stars": 4,
         "DateAdded": "2025-06-27T12:00:00+00:00",
         "image": "images/the-salt-path.jpg",
-        "duration": "1hr 55mins"
+        "Duration": 115
     },
     {
         "FilmID": 282,
@@ -3321,7 +3819,7 @@
         "Stars": 4,
         "DateAdded": "2025-06-27T15:00:00+00:00",
         "image": "images/the-ballad-of-wallis-island.jpg",
-        "duration": "1hr 40mins"
+        "Duration": 100
     },
     {
         "FilmID": 283,
@@ -3335,7 +3833,7 @@
         "Stars": 5,
         "DateAdded": "2025-07-05T22:30:00+00:00",
         "image": "images/F1.jpg",
-        "duration": "2h 35m"
+        "Duration": 155
     },
     {
         "FilmID": 284,
@@ -3349,7 +3847,7 @@
         "Stars": 3,
         "DateAdded": "2025-08-14T17:00:00+00:00",
         "image": "images/TheNakedGun.jpeg",
-        "duration": "1h 25m"
+        "Duration": 85
     },
     {
         "FilmID": 285,
@@ -3363,7 +3861,7 @@
         "Stars": 3,
         "DateAdded": "2025-10-10T17:00:00+00:00",
         "image": "images/TheRoses.jpg",
-        "duration": "1h 45m"
+        "Duration": 105
     },
     {
         "FilmID": 286,
@@ -3377,7 +3875,7 @@
         "Stars": 3,
         "DateAdded": "2025-10-11T12:00:00+00:00",
         "image": "images/TronAres.jpg",
-        "duration": "1h 59m"
+        "Duration": 119
     },
     {
         "FilmID": 287,
@@ -3391,7 +3889,7 @@
         "Stars": 3,
         "DateAdded": "2025-10-19T19:00:00+00:00",
         "image": "images/Roofman.jpg",
-        "duration": "2hs 6m"
+        "Duration": 126
     },
     {
         "FilmID": 288,
@@ -3405,7 +3903,7 @@
         "Stars": 3,
         "DateAdded": "2025-10-26T17:00:00+00:00",
         "image": "images/GoodFortune.png",
-        "duration": "1h 37m"
+        "Duration": 97
     },
     {
         "FilmID": 289,
@@ -3419,7 +3917,7 @@
         "Stars": 5,
         "DateAdded": "2025-12-14T16:00:00+00:00",
         "image": "images/BttF40th.jpeg",
-        "duration": "1hr 56m"
+        "Duration": 116
     },
     {
         "FilmID": 290,
@@ -3433,8 +3931,8 @@
         "Stars": 3,
         "DateAdded": "2025-12-14T16:00:00+00:00",
         "image": "images/thefifthstep.jpg",
-        "duration": "",
-        "link": "https://thefifthstep.ntlive.com/synopsis/"
+        "link": "https://thefifthstep.ntlive.com/synopsis/",
+        "Duration": 165
     },
     {
         "FilmID": 291,
@@ -3448,7 +3946,7 @@
         "Stars": 3,
         "DateAdded": "2025-12-14T16:00:00+00:00",
         "image": "images/WickedForGood.jpg",
-        "duration": "2hs 17m"
+        "Duration": 137
     },
     {
         "FilmID": 292,
@@ -3462,7 +3960,7 @@
         "Stars": 5,
         "DateAdded": "2025-12-14T16:00:00+00:00",
         "image": "images/DieHard.jpg",
-        "duration": "2hs 10m"
+        "Duration": 131
     },
     {
         "FilmID": 293,
@@ -3476,7 +3974,7 @@
         "Stars": 5,
         "DateAdded": "2025-12-14T16:00:00+00:00",
         "image": "images/Gremlins2.jpeg",
-        "duration": "1h 46m"
+        "Duration": 106
     },
     {
         "FilmID": 294,
@@ -3490,7 +3988,7 @@
         "Stars": 3,
         "DateAdded": "2026-02-21T22:00:00+00:00",
         "image": "images/Anaconda.png",
-        "duration": "99m"
+        "Duration": 99
     },
     {
         "FilmID": 295,
@@ -3504,7 +4002,7 @@
         "Stars": 3,
         "DateAdded": "2026-02-21T22:00:00+00:00",
         "image": "images/IsThisThingOn.jpg",
-        "duration": "121m"
+        "Duration": 121
     },
     {
         "FilmID": 296,
@@ -3518,6 +4016,6 @@
         "Stars": 3,
         "DateAdded": "2026-02-21T22:00:00+00:00",
         "image": "images/SendHelp.jpeg",
-        "duration": "113m"
+        "Duration": 113
     }
 ]
