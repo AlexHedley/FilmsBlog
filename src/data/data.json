@@ -4017,5 +4017,19 @@
         "DateAdded": "2026-02-21T22:00:00+00:00",
         "image": "images/SendHelp.jpeg",
         "Duration": 113
+    },
+    {
+        "FilmID": 297,
+        "FilmName": "Michael",
+        "Certificate": "12A",
+        "FilmDate": "2026-04-25T12:00:00+00:00",
+        "Review": "A great sing along, looking forward to part 2.",
+        "Cinema": "MarketPavillion",
+        "Place": "Blyth",
+        "Rating": "****°",
+        "Stars": 4,
+        "DateAdded": "2026-04-25T15:30:00+00:00",
+        "image": "images/Michael.jpg",
+        "Duration": 127
     }
 ]
