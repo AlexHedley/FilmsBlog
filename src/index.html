@@ -21,6 +21,7 @@
         <link rel="stylesheet" href="css/vendor/jquery-ui.1.12.1.min.css" />
         <link rel="stylesheet" href="css/styles.css" type="text/css" />
         <link rel="stylesheet" href="css/stars.css" type="text/css" />
+        <link rel="stylesheet" href="css/ticket.css" type="text/css" />
 
         <link rel="shortcut icon" href="favicon.ico" />
 
@@ -59,6 +60,9 @@
                     <ul class="nav nav-tabs">
                         <li class="nav-item">
                             <a class="nav-link active" data-toggle="tab" href="#films">Films</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#ticket">Ticket</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" data-toggle="tab" href="#graphs">Graphs</a>
@@ -119,6 +123,17 @@
                                         </div>
                                     </div>
                                 </div>
+                            </div>
+                        </div>
+
+                        <!-- Ticket -->
+                        <div class="tab-pane fade" id="ticket">
+                            <div class="ticket-section">
+                                <div class="ticket-select-wrapper">
+                                    <select ng-model="selectedFilm" ng-options="review.FilmName for review in list | orderBy:'FilmName'">
+                                    </select>
+                                </div>
+                                <film-ticket></film-ticket>
                             </div>
                         </div>
 
@@ -190,5 +205,6 @@
         <script src="js/charts.js"></script>
         <script src="js/app.js"></script>
         <script src="js/filters.js"></script>
+        <script src="js/directives/filmTicket.js"></script>
     </body>
 </html>

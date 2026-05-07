@@ -1,0 +1,258 @@
+/* Film Ticket Component */
+
+.ticket-section {
+    background: #16213e;
+    padding: 40px 20px;
+    min-height: 400px;
+}
+
+.ticket-select-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.ticket-select-wrapper select {
+    background: #0f3460;
+    color: #e0c060;
+    border: 1px solid #444;
+    border-radius: 5px;
+    padding: 8px 16px;
+    font-size: 14px;
+    max-width: 300px;
+    width: 100%;
+}
+
+.ticket-select-wrapper select option {
+    background: #0f3460;
+    color: #fff;
+}
+
+.ticket-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+}
+
+/* ── Horizontal cinema ticket ── */
+.ticket {
+    display: flex;
+    flex-direction: row;
+    width: 720px;
+    max-width: 100%;
+    height: 240px;
+    background: #212121;
+    border-radius: 12px;
+    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.8);
+    position: relative;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #fff;
+    overflow: visible;
+}
+
+/* Left: poster strip */
+.ticket-poster-section {
+    position: relative;
+    width: 180px;
+    flex-shrink: 0;
+    overflow: hidden;
+    border-radius: 12px 0 0 12px;
+}
+
+.ticket-bg-poster {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.45);
+}
+
+.ticket-poster-overlay {
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+.ticket-admit-label {
+    display: block;
+    font-size: 8px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: #aaa;
+    margin-bottom: 2px;
+}
+
+.ticket-admit-one {
+    display: block;
+    font-size: 19px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #e0c060;
+    font-weight: bold;
+}
+
+/* No-poster fallback */
+.ticket-no-poster {
+    position: absolute;
+    inset: 0;
+    background: #1a1a2e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ticket-no-poster-icon {
+    font-size: 48px;
+    opacity: 0.3;
+}
+
+/* Middle: main info */
+.ticket-body {
+    flex: 1;
+    padding: 22px 28px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: #212121;
+    min-width: 0;
+}
+
+.ticket-film-title {
+    font-size: 20px;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #e0c060;
+    margin-bottom: 8px;
+    line-height: 1.2;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.ticket-gold-rule {
+    width: 36px;
+    height: 2px;
+    background: #e0c060;
+    margin-bottom: 12px;
+    opacity: 0.5;
+}
+
+.ticket-details {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 7px 20px;
+}
+
+.ticket-detail-item {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+}
+
+.ticket-detail-label {
+    font-size: 7px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #666;
+    margin-bottom: 1px;
+}
+
+.ticket-detail-value {
+    font-size: 12px;
+    color: #ccc;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.ticket-cinema-logo-small {
+    height: 13px;
+    opacity: 0.85;
+    flex-shrink: 0;
+}
+
+/* Vertical dashed separator with circular notches */
+.ticket-separator-v {
+    position: relative;
+    width: 0;
+    border-left: 2px dashed #444;
+    flex-shrink: 0;
+    align-self: stretch;
+    overflow: visible;
+}
+
+.ticket-notch {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    background: #16213e;
+    border-radius: 50%;
+    left: -13px;
+    z-index: 1;
+}
+
+.ticket-notch-top {
+    top: -12px;
+}
+
+.ticket-notch-bottom {
+    bottom: -12px;
+}
+
+/* Right: tear-off stub */
+.ticket-stub {
+    width: 130px;
+    flex-shrink: 0;
+    background: #1c1c1c;
+    border-radius: 0 12px 12px 0;
+    padding: 20px 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 8px;
+}
+
+.ticket-stub-title {
+    font-size: 9px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #888;
+    line-height: 1.5;
+    word-break: break-word;
+}
+
+.ticket-stub-stars {
+    display: flex;
+    gap: 2px;
+}
+
+.ticket-stub-star {
+    font-size: 16px;
+    color: #e0c060;
+}
+
+.ticket-stub-star.empty {
+    color: #333;
+}
+
+.ticket-stub-cert img {
+    height: 30px;
+}
+
+.ticket-stub-cinema img {
+    height: 18px;
+    opacity: 0.65;
+    max-width: 100px;
+}
