@@ -1,0 +1,136 @@
+<div class="billboard-wrapper">
+    <div class="cinema-billboard">
+
+        <!-- Light bulbs -->
+        <div class="billboard-bulbs" aria-hidden="true">
+            <!-- Top row -->
+            <span class="billboard-bulb" style="top:-7px; left:20px"></span>
+            <span class="billboard-bulb" style="top:-7px; left:60px"></span>
+            <span class="billboard-bulb" style="top:-7px; left:100px"></span>
+            <span class="billboard-bulb" style="top:-7px; left:140px"></span>
+            <span class="billboard-bulb" style="top:-7px; left:180px"></span>
+            <span class="billboard-bulb" style="top:-7px; left:220px"></span>
+            <span class="billboard-bulb" style="top:-7px; left:260px"></span>
+            <span class="billboard-bulb" style="top:-7px; left:300px"></span>
+            <span class="billboard-bulb" style="top:-7px; left:340px"></span>
+            <span class="billboard-bulb" style="top:-7px; left:380px"></span>
+            <span class="billboard-bulb" style="top:-7px; left:420px"></span>
+            <span class="billboard-bulb" style="top:-7px; left:460px"></span>
+            <span class="billboard-bulb" style="top:-7px; left:500px"></span>
+            <span class="billboard-bulb" style="top:-7px; left:540px"></span>
+            <span class="billboard-bulb" style="top:-7px; left:580px"></span>
+            <span class="billboard-bulb" style="top:-7px; left:620px"></span>
+            <!-- Bottom row -->
+            <span class="billboard-bulb" style="bottom:-7px; left:20px"></span>
+            <span class="billboard-bulb" style="bottom:-7px; left:60px"></span>
+            <span class="billboard-bulb" style="bottom:-7px; left:100px"></span>
+            <span class="billboard-bulb" style="bottom:-7px; left:140px"></span>
+            <span class="billboard-bulb" style="bottom:-7px; left:180px"></span>
+            <span class="billboard-bulb" style="bottom:-7px; left:220px"></span>
+            <span class="billboard-bulb" style="bottom:-7px; left:260px"></span>
+            <span class="billboard-bulb" style="bottom:-7px; left:300px"></span>
+            <span class="billboard-bulb" style="bottom:-7px; left:340px"></span>
+            <span class="billboard-bulb" style="bottom:-7px; left:380px"></span>
+            <span class="billboard-bulb" style="bottom:-7px; left:420px"></span>
+            <span class="billboard-bulb" style="bottom:-7px; left:460px"></span>
+            <span class="billboard-bulb" style="bottom:-7px; left:500px"></span>
+            <span class="billboard-bulb" style="bottom:-7px; left:540px"></span>
+            <span class="billboard-bulb" style="bottom:-7px; left:580px"></span>
+            <span class="billboard-bulb" style="bottom:-7px; left:620px"></span>
+            <!-- Left column -->
+            <span class="billboard-bulb" style="left:-7px; top:20px"></span>
+            <span class="billboard-bulb" style="left:-7px; top:60px"></span>
+            <span class="billboard-bulb" style="left:-7px; top:100px"></span>
+            <span class="billboard-bulb" style="left:-7px; top:140px"></span>
+            <span class="billboard-bulb" style="left:-7px; top:180px"></span>
+            <span class="billboard-bulb" style="left:-7px; top:220px"></span>
+            <span class="billboard-bulb" style="left:-7px; top:260px"></span>
+            <!-- Right column -->
+            <span class="billboard-bulb" style="right:-7px; top:20px"></span>
+            <span class="billboard-bulb" style="right:-7px; top:60px"></span>
+            <span class="billboard-bulb" style="right:-7px; top:100px"></span>
+            <span class="billboard-bulb" style="right:-7px; top:140px"></span>
+            <span class="billboard-bulb" style="right:-7px; top:180px"></span>
+            <span class="billboard-bulb" style="right:-7px; top:220px"></span>
+            <span class="billboard-bulb" style="right:-7px; top:260px"></span>
+        </div>
+
+        <!-- Cinema header -->
+        <div class="billboard-header">
+            <div class="billboard-cinema-name">
+                <img ng-if="film.Cinema" ng-src="images/cinemas/{{film.Cinema}}.png" alt="{{film.Cinema}}" width="18" style="vertical-align:middle; margin-right:6px;" />
+                {{film.Cinema}}
+            </div>
+            <div class="billboard-cinema-place">{{film.Place}}</div>
+        </div>
+
+        <hr class="billboard-divider" />
+
+        <div class="billboard-now-showing">&#9733; Now Showing &#9733;</div>
+
+        <!-- Main content -->
+        <div class="billboard-content">
+            <!-- Poster -->
+            <div class="billboard-poster">
+                <img
+                    ng-if="film.image && film.image.length > 0"
+                    ng-src="{{film.image}}"
+                    alt="{{film.FilmName}}"
+                />
+                <div ng-if="!film.image || film.image.length === 0" class="billboard-poster-placeholder">
+                    <i class="fas fa-film"></i>
+                </div>
+            </div>
+
+            <!-- Film details -->
+            <div class="billboard-info">
+                <div class="billboard-title">{{film.FilmName}}</div>
+
+                <ul class="billboard-meta">
+                    <!-- Stars -->
+                    <li ng-if="film.Stars >= 0">
+                        <i class="fas fa-star"></i>
+                        <span class="billboard-stars" aria-label="{{film.Stars}} out of 5 stars">
+                            <span
+                                ng-repeat="n in [1,2,3,4,5] track by $index"
+                                class="billboard-star"
+                                ng-class="{empty: n > film.Stars}"
+                            >&#9733;</span>
+                        </span>
+                        <span>{{film.Stars}} / 5</span>
+                    </li>
+                    <!-- Certificate -->
+                    <li ng-if="film.Certificate && film.Certificate.length > 0">
+                        <i class="fas fa-certificate"></i>
+                        <span class="billboard-certificate">
+                            <img
+                                ng-src="images/certificates/{{film.Certificate}}.png"
+                                alt="Certificate {{film.Certificate}}"
+                                height="24"
+                            />
+                        </span>
+                        <span>{{film.Certificate}}</span>
+                    </li>
+                    <!-- Duration -->
+                    <li ng-if="film.Duration > 0">
+                        <i class="fas fa-clock"></i>
+                        <span>{{film.Duration | minutesToDuration}}</span>
+                    </li>
+                    <!-- Date -->
+                    <li ng-if="film.FilmDate">
+                        <i class="fas fa-calendar-alt"></i>
+                        <span>{{film.FilmDate | toDate | date:'mediumDate'}}</span>
+                    </li>
+                </ul>
+
+                <!-- Review excerpt -->
+                <div
+                    ng-if="film.Review && film.Review.length > 0"
+                    class="billboard-review"
+                    ng-bind-html="film.Review"
+                ></div>
+            </div>
+        </div>
+
+    </div>
+</div>

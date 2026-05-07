@@ -2,6 +2,12 @@ var myApp = angular.module('myApp', ['ngSanitize', 'angular.filter']);
 myApp.controller('myController', function ($scope, $http, $q, $filter) {
 
     $scope.list = [];
+    $scope.billboardFilm = null;
+
+    $scope.setBillboardFilm = function (film) {
+        $scope.billboardFilm = film;
+        $scope.billboardSearch = '';
+    };
 
     $scope.orderOptions = [
         // { name:'FilmDate' }, 
@@ -25,6 +31,7 @@ myApp.controller('myController', function ($scope, $http, $q, $filter) {
         $http.get(file)
             .then(function(response) {
                 $scope.list = response.data;
+                $scope.billboardFilm = response.data[response.data.length - 1];
 
                 var chartData = getChartData(response.data);
                 setupChart(chartData);
